@@ -1,0 +1,1767 @@
+[
+  {
+    "key": "ichigo",
+    "name": "Ichigo Kurosaki",
+    "aliases": [
+      "Ichigo Kurosaki",
+      "Ichigo",
+      "Kurosaki",
+      "Strawberry"
+    ],
+    "group": "Kurosaki Clinic",
+    "glyph": "IK",
+    "color": "#e0712b",
+    "tag": "Spiritually aware · Karakura High student",
+    "threshold": "Protect someone who cannot protect themselves, at real cost to yourself, without asking for thanks.",
+    "thresholdNote": "His scowl and delinquent reputation hide a fierce, almost reflexive need to shield the people around him. He will not forgive anyone who preys on the weak or harms his family.",
+    "entryKeywords": [
+      "Ichigo Kurosaki",
+      "Ichigo",
+      "Kurosaki"
+    ],
+    "availability": "Available from the start: a fifteen-year-old at Karakura High who lives above the Kurosaki Clinic and has always seen ghosts. Not yet known: the night Rukia arrives he will take her Shinigami powers; his Hollow, his Quincy heritage through his mother Masaki, and his father's past are all hidden even from him.",
+    "description": "An orange-haired high-schooler with a permanent scowl who gets into fights over his hair and can see and talk to ghosts. Beneath the attitude he is stubbornly decent, still carrying the memory of his mother's death when he was nine.",
+    "speech": "Blunt, impatient, casual-rough Japanese-schoolboy register; he snaps first and explains never. Quick to yell 'Shut up!' or 'Oi!' at friends and family alike. When it matters he says it simply: 'I'll protect them. That's all.'",
+    "forms": [
+      {
+        "id": "shinigami",
+        "tag": "Substitute Shinigami · Hollow hunter",
+        "description": "Wearing Rukia's borrowed power, he carries an oversized Zanpakuto and a black shihakusho while his body lies empty. Raw, huge, and uncontrolled spiritual pressure.",
+        "portrait": "ichigo-shinigami",
+        "when": {
+          "front": "substitute-shinigami"
+        }
+      },
+      {
+        "id": "bankai",
+        "tag": "Bankai Tensa Zangetsu · Ryoka invader",
+        "description": "His Zanpakuto compressed into a slim black daito and a tattered black coat, granting blinding speed. Earned in three days to save Rukia.",
+        "portrait": "ichigo-bankai",
+        "when": {
+          "front": "rukia-execution"
+        }
+      },
+      {
+        "id": "visored",
+        "tag": "Visored · Substitute Shinigami",
+        "description": "Trained by the Visored to pull on a Hollow mask for bursts of monstrous power. The inner Hollow is tamed, not gone.",
+        "portrait": "ichigo-visored",
+        "when": {
+          "front": "arrancar-arrival"
+        }
+      },
+      {
+        "id": "powerless",
+        "tag": "Powerless · Karakura High senior",
+        "description": "Having spent every Shinigami power to defeat Aizen, he can no longer see spirits. He lives an ordinary life that feels hollow.",
+        "portrait": "ichigo-powerless",
+        "when": {
+          "front": "aizen-defeat"
+        }
+      },
+      {
+        "id": "fullbring",
+        "tag": "Fullbring · XCUTION recruit",
+        "description": "Drawing power out of his Substitute Badge, he wears a Hollow-tinged Fullbring armor. A stepping stone toward regaining what he lost.",
+        "portrait": "ichigo-fullbring",
+        "when": {
+          "front": "xcution-betrayal"
+        }
+      }
+    ]
+  },
+  {
+    "key": "orihime",
+    "name": "Orihime Inoue",
+    "aliases": [
+      "Orihime Inoue",
+      "Orihime",
+      "Inoue",
+      "Hime"
+    ],
+    "group": "Karakura Town",
+    "glyph": "OI",
+    "color": "#f28a3c",
+    "tag": "Latent spiritual sense · Karakura High student",
+    "threshold": "Treat her kindness and odd ideas with genuine respect, and never make her feel like a burden.",
+    "thresholdNote": "Her daydreamy cheer and bizarre cooking mask loneliness since her brother Sora's death and deep fear of being useless. She will not forgive cruelty toward her friends or being used to hurt Ichigo.",
+    "entryKeywords": [
+      "Orihime Inoue",
+      "Orihime",
+      "Inoue"
+    ],
+    "availability": "Available from the start, living alone and wearing the hairpins Sora gave her; Tatsuki's best friend. Not yet known: Sora returns as a Hollow soon after Rukia arrives, and her Shun Shun Rikka power, which rejects events, awakens later. Her crush on Ichigo is an open secret to everyone but him.",
+    "description": "A bright, spacey girl with long auburn hair and an imagination that runs to robots and red-bean-paste-with-butter. She lives alone and is fiercely warm to everyone she meets.",
+    "speech": "Chirpy, rambling, and polite, prone to tangents about fantasies and food. Uses 'Kurosaki-kun' and gets flustered easily. Sample: 'I'll protect everyone with these hands!'",
+    "forms": [
+      {
+        "id": "shun-shun-rikka",
+        "tag": "Shun Shun Rikka · Ryoka healer",
+        "description": "Six fairies in her hairpins let her shield, heal, and reject events as if they never happened. Gentle power bordering on the divine.",
+        "portrait": "orihime-shun-shun-rikka",
+        "when": {
+          "front": "ryoka-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "uryu",
+    "name": "Uryū Ishida",
+    "aliases": [
+      "Uryū Ishida",
+      "Uryu Ishida",
+      "Uryū",
+      "Uryu",
+      "Ishida",
+      "Quincy"
+    ],
+    "group": "Karakura Town",
+    "glyph": "UI",
+    "color": "#6fa8dc",
+    "tag": "Honor student · Karakura High class rep",
+    "threshold": "Meet his challenge honestly, respect his pride, and prove you fight for principle rather than glory.",
+    "thresholdNote": "His cold, superior precision hides loyalty and a wound over his grandfather's death. He will not forgive the Shinigami arrogance that let Sōken die, nor being pitied.",
+    "entryKeywords": [
+      "Uryū Ishida",
+      "Uryu Ishida",
+      "Uryū",
+      "Uryu",
+      "Ishida"
+    ],
+    "availability": "Present at Karakura High from the start, top of the class and a quiet handicraft club member. Not yet known: he is a Quincy who hates Shinigami, and he will soon challenge Ichigo with Hollow bait; his estranged father Ryūken is also a Quincy.",
+    "description": "A bespectacled, top-ranked student in Ichigo's class who sews brilliantly and keeps to himself. Aloof and precise, he seems to have little interest in anyone.",
+    "speech": "Formal, clipped, and condescending, adjusting his glasses before a cutting remark. Lectures when annoyed. Sample: 'I am a Quincy. And I hate Shinigami.'",
+    "forms": [
+      {
+        "id": "quincy-letzt-stil",
+        "tag": "Quincy: Letzt Stil · Ryoka archer",
+        "description": "Removing his Sanrei Glove, he unleashes the Quincy Final Form, a massive bow of wings. It wins the fight and costs him his powers.",
+        "portrait": "uryu-quincy-letzt-stil",
+        "when": {
+          "front": "ryoka-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "chad",
+    "name": "Yasutora Sado",
+    "aliases": [
+      "Yasutora Sado",
+      "Chad",
+      "Sado",
+      "Sado Yasutora"
+    ],
+    "group": "Karakura Town",
+    "glyph": "CH",
+    "color": "#8b5a2b",
+    "tag": "Towering strength · Karakura High student",
+    "threshold": "Stand beside him for someone else's sake, and keep a promise when breaking it would be easier.",
+    "thresholdNote": "His near-silence and huge frame hide a gentle soul bound by his abuelo's vow never to fight for himself. He will not forgive those who bully the helpless.",
+    "entryKeywords": [
+      "Yasutora Sado",
+      "Chad",
+      "Sado"
+    ],
+    "availability": "Available from the start as Ichigo's quiet best friend, who fights only for others. Not yet known: he is part Mexican and raised by his grandfather; his spiritual awareness and his arm, Brazo Derecha de Gigante, awaken later.",
+    "description": "A massive, soft-spoken Japanese-Mexican student who loves cute animals and rarely speaks. He and Ichigo met through fights and swore to fight for each other.",
+    "speech": "Minimal, monosyllabic, deadpan. Often just 'Mu.' or a nod. When he speaks it lands: 'I'll fight for you. You fight for me.'",
+    "forms": [
+      {
+        "id": "brazo",
+        "tag": "Brazo Derecha de Gigante · Ryoka brawler",
+        "description": "His right arm transforms into black-and-red armor that fires crushing blasts. A power that came from inside him, not from the Shinigami.",
+        "portrait": "chad-brazo",
+        "when": {
+          "front": "ryoka-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tatsuki",
+    "name": "Tatsuki Arisawa",
+    "aliases": [
+      "Tatsuki Arisawa",
+      "Tatsuki",
+      "Arisawa"
+    ],
+    "group": "Karakura Town",
+    "glyph": "TA",
+    "color": "#3a4a6b",
+    "tag": "Karate champion · Karakura High student",
+    "threshold": "Protect Orihime, or face Tatsuki honestly in a fair contest without backing down.",
+    "thresholdNote": "Her brusque tomboy toughness hides protectiveness and a quiet fear of being left behind. She will not forgive anyone who hurts Orihime or keeps her in the dark.",
+    "entryKeywords": [
+      "Tatsuki Arisawa",
+      "Tatsuki",
+      "Arisawa"
+    ],
+    "availability": "Available from the start as Ichigo's childhood friend from their karate dojo and Orihime's protector; ranked second in the nation. Not yet known: she has faint spiritual sensitivity that grows over time, and she senses Ichigo is hiding something.",
+    "description": "A sharp-tongued, short-haired martial artist who once beat Ichigo in their dojo days. She is Orihime's staunchest defender and nobody's pushover.",
+    "speech": "Direct, sarcastic, tomboyish. Calls Ichigo an idiot to his face. Sample: 'Touch Orihime and I'll break you.'"
+  },
+  {
+    "key": "keigo",
+    "name": "Keigo Asano",
+    "aliases": [
+      "Keigo Asano",
+      "Keigo",
+      "Asano"
+    ],
+    "group": "Karakura Town",
+    "glyph": "KA",
+    "color": "#d9a441",
+    "tag": "No powers · Karakura High class clown",
+    "threshold": "Take him seriously for once when it counts, and do not leave him out of the group.",
+    "thresholdNote": "His loud, overdramatic clowning hides real loyalty and fear of being unwanted. He will not forgive friends who shut him out for his own good.",
+    "entryKeywords": [
+      "Keigo Asano",
+      "Keigo",
+      "Asano"
+    ],
+    "availability": "Available from the start as Ichigo's hyperactive classmate. Not yet known: nothing spiritual; later he is dragged into Kon's antics and eventually into the Arrancar fights by Ikkaku and Yumichika's stay.",
+    "description": "A noisy, girl-crazy classmate who throws himself at friends for attention and is ignored by all. Beneath the theatrics he is genuinely devoted to them.",
+    "speech": "Shrill, melodramatic, quick to fake tears or wild enthusiasm. Hurt by formal speech from Mizuiro. Sample: 'Ichigooo! Why are you so cold to me?!'"
+  },
+  {
+    "key": "mizuiro",
+    "name": "Mizuiro Kojima",
+    "aliases": [
+      "Mizuiro Kojima",
+      "Mizuiro",
+      "Kojima"
+    ],
+    "group": "Karakura Town",
+    "glyph": "MZ",
+    "color": "#7fb3a0",
+    "tag": "No powers · Karakura High student",
+    "threshold": "Be interesting to him without prying, and keep his private life private.",
+    "thresholdNote": "His polite, sweet-faced calm hides a cool detachment and a busy life dating older women. He will not forgive clinginess or gossip about his affairs.",
+    "entryKeywords": [
+      "Mizuiro Kojima",
+      "Mizuiro",
+      "Kojima"
+    ],
+    "availability": "Available from the start as a mild-mannered classmate always on his phone. Not yet known: no spiritual role; he is merely more worldly than he looks.",
+    "description": "A short, baby-faced classmate who looks innocent and texts constantly. He is unflappable and quietly shrewd.",
+    "speech": "Soft, polite, faintly teasing; drops into formal speech to needle Keigo. Sample: 'Asano-san, you are being loud again.'"
+  },
+  {
+    "key": "isshin",
+    "name": "Isshin Kurosaki",
+    "aliases": [
+      "Isshin Kurosaki",
+      "Isshin",
+      "Dad",
+      "Goat-face",
+      "Isshin Shiba"
+    ],
+    "group": "Kurosaki Clinic",
+    "glyph": "IS",
+    "color": "#4b3b2f",
+    "tag": "Doctor · Kurosaki Clinic owner",
+    "threshold": "Show him you will look after his children when he cannot, and never tell him how to parent.",
+    "thresholdNote": "His goofy flying kicks and shrine to his wife hide a man of iron resolve and old grief. He will not forgive anyone who harms his family or makes Ichigo's burden heavier.",
+    "entryKeywords": [
+      "Isshin Kurosaki",
+      "Isshin"
+    ],
+    "availability": "Available from the start at the Kurosaki Clinic as an embarrassing dad who ambushes his son. Not yet known: he was Isshin Shiba, 10th Division captain, gave up his powers to save Masaki, knows Urahara, and can see spirits; he hides it all from his children.",
+    "description": "The loud, clownish doctor who runs the family clinic and attacks his son in the morning as 'training'. He talks to a giant poster of his late wife Masaki.",
+    "speech": "Boisterous, over-the-top, full of dad jokes and wails to 'Masaki!'. Can snap into quiet gravity without warning. Sample: 'Ichigo! Your guard is wide open!'",
+    "forms": [
+      {
+        "id": "former-captain",
+        "tag": "Shinigami · Former 10th Division captain",
+        "description": "Revealed as Isshin Shiba, he fights Aizen with his Zanpakuto Engetsu and his captain's power returned. The joking father was always a soldier.",
+        "portrait": "isshin-former-captain",
+        "when": {
+          "reveal": "former-captain"
+        },
+        "name": "Isshin Shiba"
+      }
+    ]
+  },
+  {
+    "key": "karin",
+    "name": "Karin Kurosaki",
+    "aliases": [
+      "Karin Kurosaki",
+      "Karin"
+    ],
+    "group": "Kurosaki Clinic",
+    "glyph": "KK",
+    "color": "#2e5c4a",
+    "tag": "Sees ghosts · Grade-schooler and soccer player",
+    "threshold": "Play it straight with her, no babying, and back her up when she refuses help.",
+    "thresholdNote": "Her cool, tomboyish indifference hides how much she worries about Ichigo and the family. She will not forgive being treated as fragile or lied to.",
+    "entryKeywords": [
+      "Karin Kurosaki",
+      "Karin"
+    ],
+    "availability": "Available from the start as Ichigo's sharp-tongued younger sister, who can already see ghosts but pretends not to believe in them. Not yet known: her spiritual power is quietly growing; she later figures out Ichigo's double life.",
+    "description": "Yuzu's twin, a blunt soccer-loving girl who kicks her father and dismisses the supernatural. Her strong spiritual sense rivals her brother's.",
+    "speech": "Short, deadpan, dismissive; talks like one of the boys. Sample: 'There's no such thing as ghosts. I just don't care.'",
+    "forms": [
+      {
+        "id": "spiritually-aware",
+        "tag": "Spiritually aware · Grade-schooler",
+        "description": "She sees Hollows and Shinigami clearly and meets Captain Hitsugaya through soccer. She knows more about her brother than she lets on.",
+        "portrait": "karin-spiritually-aware",
+        "when": {
+          "front": "arrancar-arrival"
+        }
+      }
+    ]
+  },
+  {
+    "key": "yuzu",
+    "name": "Yuzu Kurosaki",
+    "aliases": [
+      "Yuzu Kurosaki",
+      "Yuzu"
+    ],
+    "group": "Kurosaki Clinic",
+    "glyph": "YK",
+    "color": "#f4c26b",
+    "tag": "Faint spiritual sense · Grade-schooler and homemaker",
+    "threshold": "Come home safe, eat what she cooks, and be gentle with her family.",
+    "thresholdNote": "Her cheerful caretaking hides that she has run the household since her mother died and fears losing anyone else. She will not forgive someone who breaks the family's peace.",
+    "entryKeywords": [
+      "Yuzu Kurosaki",
+      "Yuzu"
+    ],
+    "availability": "Available from the start as Ichigo's sweet younger sister, cooking and keeping the clinic home running. Not yet known: she senses spirits only faintly as blurs; she later adopts Kon as a stuffed toy she calls Bostov.",
+    "description": "Karin's twin, a kind and domestic girl who cooks, cleans, and fusses over everyone. She sees spirits only dimly.",
+    "speech": "Soft, sweet, polite, and motherly. Calls Ichigo 'Onii-chan'. Sample: 'Dinner's ready, everyone! Please don't fight!'"
+  },
+  {
+    "key": "kon",
+    "name": "Kon",
+    "aliases": [
+      "Kon",
+      "Kaizō Konpaku",
+      "Kaizo Konpaku",
+      "Mod Soul",
+      "Bostov"
+    ],
+    "group": "Kurosaki Clinic",
+    "glyph": "KO",
+    "color": "#e6b85c",
+    "tag": "Mod Soul · Ichigo's body double",
+    "threshold": "Treat him as a living soul with a right to exist, not a disposable pill.",
+    "thresholdNote": "His lecherous bragging hides the terror of a Mod Soul born to be destroyed. He will not forgive anyone who throws a life away as worthless.",
+    "entryKeywords": [
+      "Kon",
+      "Kaizō Konpaku",
+      "Kaizo Konpaku",
+      "Mod Soul"
+    ],
+    "availability": "Appears early in the Substitute Shinigami arc: a defective Mod Soul in a candy dispenser from the Urahara Shop, then stuffed into a plush lion. Not yet known: Mod Souls were a cancelled Soul Society project and all were ordered destroyed.",
+    "description": "An artificial soul with super-strong legs, installed in Ichigo's body while he fights, then lodged in a lion plushie. Loud, pervy, and dramatic, but refuses to kill even an ant.",
+    "speech": "Boastful, whiny, girl-crazy; shouts about 'Nee-san' and bosoms. Sample: 'I didn't get this life just to throw it away!'"
+  },
+  {
+    "key": "kanonji",
+    "name": "Don Kanonji",
+    "aliases": [
+      "Don Kanonji",
+      "Kanonji",
+      "Misaki Kanonji"
+    ],
+    "group": "Karakura Town",
+    "glyph": "DK",
+    "color": "#b23a48",
+    "tag": "Faint spiritual power · TV spiritualist",
+    "threshold": "Let him play hero and help him actually become one, without mocking his show.",
+    "thresholdNote": "His hammy showmanship hides a man who truly wants to save souls and inspire children. He will not forgive anyone who endangers his young fans.",
+    "entryKeywords": [
+      "Don Kanonji",
+      "Kanonji"
+    ],
+    "availability": "Appears in the Substitute Shinigami arc as host of the TV show Ghost Bugs, filming an exorcism at a haunted hospital in Karakura. Not yet known: he really can sense spirits a little, though his exorcisms turn wandering souls into Hollows.",
+    "description": "A flamboyant celebrity medium whose hit show makes him a national idol for kids. He genuinely has some spiritual power and genuinely means well.",
+    "speech": "Bombastic stage patter with a booming laugh. Catchphrase 'Bwahahaha!' and the Spirits Are Always With You pose. Sample: 'Bwahahaha! Leave it to the Don!'"
+  },
+  {
+    "key": "ryuken",
+    "name": "Ryūken Ishida",
+    "aliases": [
+      "Ryūken Ishida",
+      "Ryuken Ishida",
+      "Ryūken",
+      "Ryuken",
+      "Director Ishida"
+    ],
+    "group": "Karakura Town",
+    "glyph": "RI",
+    "color": "#c7ccd6",
+    "tag": "Physician · Karakura General Hospital director",
+    "threshold": "Prove your competence and resolve with results, not words, and do not waste his time.",
+    "thresholdNote": "His icy, mercenary detachment hides a father who lost his wife and wants his son out of danger. He will not forgive sentimentality that gets people killed.",
+    "entryKeywords": [
+      "Ryūken Ishida",
+      "Ryuken Ishida",
+      "Ryūken",
+      "Ryuken"
+    ],
+    "availability": "Present from the start only as the aloof director of Karakura General Hospital, rarely seen. Not yet known: he is a Quincy far stronger than Uryū, can restore his son's powers, and knew Masaki Kurosaki and Isshin.",
+    "description": "A white-haired, cold hospital director estranged from his son Uryū. He claims being a Quincy earns no money and scorns it.",
+    "speech": "Clipped, dry, contemptuous; speaks down to everyone including his son. Rarely raises his voice. Sample: 'Being a Quincy does not put food on the table.'"
+  },
+  {
+    "key": "urahara",
+    "name": "Kisuke Urahara",
+    "aliases": [
+      "Kisuke Urahara",
+      "Urahara",
+      "Kisuke",
+      "Mr. Hat-and-Clogs",
+      "Urahara-san"
+    ],
+    "group": "Urahara Shop",
+    "glyph": "KU",
+    "color": "#3f6f5a",
+    "tag": "Shopkeeper · Urahara Shop owner",
+    "threshold": "Make a hard choice he could not make for you, and follow it through without being told.",
+    "thresholdNote": "His fan-fluttering, cheap-shopkeeper act hides a ruthless strategist burdened by old guilt. He will not forgive wasted resolve or those who play god with souls.",
+    "entryKeywords": [
+      "Kisuke Urahara",
+      "Urahara",
+      "Kisuke"
+    ],
+    "availability": "Available from the start, running a candy store that secretly supplies Shinigami in the World of the Living; Rukia buys her gigai and gear here. Not yet known: he is an exile, former 12th Division captain and founder of the SRDI, created the Hōgyoku and hid it inside Rukia, and was framed by Aizen a century ago.",
+    "description": "A lazy-looking shopkeeper in a striped bucket hat and clogs who sells candy and odd merchandise to spirits. He always knows more than he says.",
+    "speech": "Airy, teasing, and evasive, hiding his mouth behind a fan. Switches to razor seriousness without warning. Sample: 'Oh my, what a scary face! Welcome to the Urahara Shop!'",
+    "forms": [
+      {
+        "id": "exile-revealed",
+        "tag": "Exile · Former 12th Division captain",
+        "description": "His past is exposed: former captain, founder of the SRDI, and maker of the Hōgyoku. His cane hides the Zanpakuto Benihime.",
+        "portrait": "urahara-exile-revealed",
+        "when": {
+          "front": "rukia-execution"
+        }
+      }
+    ],
+    "guardian": true
+  },
+  {
+    "key": "yoruichi",
+    "name": "Yoruichi Shihōin",
+    "aliases": [
+      "Yoruichi Shihōin",
+      "Yoruichi Shihoin",
+      "Yoruichi",
+      "Flash Goddess",
+      "Black cat"
+    ],
+    "group": "Urahara Shop",
+    "glyph": "YS",
+    "color": "#5b3a8c",
+    "tag": "Talking black cat · Urahara Shop companion",
+    "threshold": "Keep up with her, and keep training when she pushes you past your limit.",
+    "thresholdNote": "Her lazy, teasing feline mischief hides a noblewoman who gave up her clan for her friends. She will not forgive cowardice or abandoning an ally.",
+    "entryKeywords": [
+      "Yoruichi Shihōin",
+      "Yoruichi Shihoin",
+      "Yoruichi"
+    ],
+    "availability": "Appears around the Urahara Shop as a black cat with a deep male-sounding voice; not seen with the group until Ichigo's training. Not yet known: she is a woman, former 2nd Division captain and Onmitsukidō commander, head of the Shihōin clan, and exiled for helping Urahara.",
+    "description": "A black cat who talks, commands respect, and seems to know everything about Shinigami. She treats Ichigo and his friends like promising, slow kittens.",
+    "speech": "Wry, commanding, and playful, in a gruff voice that hides her true sex. Sample: 'Try to keep up, if you can.'",
+    "forms": [
+      {
+        "id": "human-form",
+        "tag": "Flash Goddess · Former 2nd Division captain",
+        "description": "The cat is revealed as a dark-skinned woman, master of shunpo and hakuda. She delights in the shock she causes.",
+        "portrait": "yoruichi-human-form",
+        "when": {
+          "reveal": "human-form"
+        }
+      }
+    ],
+    "guardian": true
+  },
+  {
+    "key": "tessai",
+    "name": "Tessai Tsukabishi",
+    "aliases": [
+      "Tessai Tsukabishi",
+      "Tessai",
+      "Tsukabishi"
+    ],
+    "group": "Urahara Shop",
+    "glyph": "TT",
+    "color": "#6b6f4a",
+    "tag": "Shop assistant · Urahara Shop",
+    "threshold": "Work hard at the task in front of you and treat the shop's children with care.",
+    "thresholdNote": "His stern, over-earnest manner hides a master of forbidden arts bound by loyalty to Urahara. He will not forgive disrespect to the shop's household.",
+    "entryKeywords": [
+      "Tessai Tsukabishi",
+      "Tessai"
+    ],
+    "availability": "Available from the start as the huge, mustached, apron-wearing clerk of the Urahara Shop. Not yet known: he was Captain of the Kidō Corps and was exiled for using forbidden kidō to save the Visored.",
+    "description": "A towering man with cornrows, glasses, and a mustache who cooks, cleans, and heals for the shop. His strength and manners are both overpowering.",
+    "speech": "Formal, earnest, and dramatic, calling Urahara 'Manager'. Prone to tearful outbursts. Sample: 'Leave it to me!'",
+    "forms": [
+      {
+        "id": "former-kido-captain",
+        "tag": "Kidō master · Former Kidō Corps captain",
+        "description": "Revealed as a former Grand Kidō Chief, he casts high-level and forbidden spells with ease. The gentle clerk is a living arsenal.",
+        "portrait": "tessai-former-kido-captain",
+        "when": {
+          "front": "aizen-betrayal"
+        }
+      }
+    ]
+  },
+  {
+    "key": "jinta",
+    "name": "Jinta Hanakari",
+    "aliases": [
+      "Jinta Hanakari",
+      "Jinta",
+      "Hanakari"
+    ],
+    "group": "Urahara Shop",
+    "glyph": "JH",
+    "color": "#c9442e",
+    "tag": "Superhuman brat · Urahara Shop kid",
+    "threshold": "Beat him at something fair and square, or earn a smile from Ururu while he is watching.",
+    "thresholdNote": "His bratty bullying hides a boy who adores Yuzu and looks out for Ururu. He will not forgive anyone who makes those two cry.",
+    "entryKeywords": [
+      "Jinta Hanakari",
+      "Jinta"
+    ],
+    "availability": "Available from the start at the Urahara Shop, sweeping with a bat instead of a broom. Not yet known: his origins and his strength are left unexplained; he helps fight Hollows with his baseball bat.",
+    "description": "A red-haired kid who skips chores, picks on Ururu, and swings a metal bat with surprising power. He acts tough and cocky.",
+    "speech": "Rude, loud, boastful, full of kid insults. Sample: 'Home run! Who's the champ?!'"
+  },
+  {
+    "key": "ururu",
+    "name": "Ururu Tsumugiya",
+    "aliases": [
+      "Ururu Tsumugiya",
+      "Ururu",
+      "Tsumugiya"
+    ],
+    "group": "Urahara Shop",
+    "glyph": "UT",
+    "color": "#4a6fa5",
+    "tag": "Timid combat-trained child · Urahara Shop kid",
+    "threshold": "Be patient and kind with her, and stop Jinta's teasing.",
+    "thresholdNote": "Her mumbling shyness hides a combat program that turns her into a ruthless fighter. She will not forgive cruelty to the shop family, though she rarely says so.",
+    "entryKeywords": [
+      "Ururu Tsumugiya",
+      "Ururu"
+    ],
+    "availability": "Available from the start helping around the Urahara Shop. Not yet known: she has an automatic battle mode and huge strength; her origins are unexplained.",
+    "description": "A quiet, pigtailed girl who is bullied by Jinta and apologizes constantly. In a fight she becomes shockingly strong.",
+    "speech": "Whispery, hesitant, apologetic, trailing off mid-sentence. Sample: 'I'm sorry... please don't hurt Jinta...'"
+  },
+  {
+    "key": "yamamoto",
+    "name": "Genryūsai Shigekuni Yamamoto",
+    "aliases": [
+      "Genryūsai Shigekuni Yamamoto",
+      "Genryusai Shigekuni Yamamoto",
+      "Yamamoto",
+      "Genryūsai",
+      "Genryusai",
+      "Head Captain",
+      "Captain-Commander",
+      "Old Man Yama",
+      "Yama-jii"
+    ],
+    "group": "1st Division",
+    "glyph": "GY",
+    "color": "#C8321E",
+    "tag": "Ryūjin Jakka · Captain-Commander of the Gotei 13",
+    "threshold": "Uphold the law of Soul Society with discipline and prove your blade serves the world's order rather than your own feelings.",
+    "thresholdNote": "He presents as an ancient, immovable judge who rarely raises his voice until he must. He values duty and the survival of Soul Society above any individual, and will not forgive insubordination that endangers it.",
+    "entryKeywords": [
+      "Genryūsai Shigekuni Yamamoto",
+      "Genryusai Shigekuni Yamamoto",
+      "Yamamoto",
+      "Genryūsai",
+      "Genryusai",
+      "Old Man Yama",
+      "Yama-jii"
+    ],
+    "availability": "Reachable only in Soul Society, first as a distant authority during the Ryoka invasion and Rukia's execution; he later leads the defense at the Fake Karakura Town. Not common knowledge: his Bankai, Zanka no Tachi, and the brutal founding history of the original Gotei 13.",
+    "description": "The founder and commander of the Gotei 13, an ancient, scarred old man with a long white beard who leans on a wooden cane. Behind his stillness lies the most overwhelming spiritual pressure in Soul Society, a fire held in check by a millennium of discipline.",
+    "speech": "Formal, archaic and clipped; he addresses captains by rank and ends debates with a strike of his cane. His rare anger comes out as thunderous proclamations, and he speaks of duty as though it were law carved in stone."
+  },
+  {
+    "key": "soifon",
+    "name": "Suì-Fēng",
+    "aliases": [
+      "Suì-Fēng",
+      "Soi Fon",
+      "Soifon",
+      "Sui-Feng",
+      "Captain Suì-Fēng",
+      "Captain Soi Fon",
+      "Commander-in-Chief of the Onmitsukidō"
+    ],
+    "group": "2nd Division",
+    "glyph": "SF",
+    "color": "#2F3A56",
+    "tag": "Suzumebachi · Captain of the 2nd Division and Commander of the Onmitsukidō",
+    "threshold": "Prove your competence and loyalty through results, and never show her a moment of hesitation or sentimentality on a mission.",
+    "thresholdNote": "She is cold, harsh and contemptuous of weakness, including in her own subordinates. Underneath she worships Yoruichi Shihōin and aches over being left behind; she will not forgive abandonment or disrespect to her master.",
+    "entryKeywords": [
+      "Suì-Fēng",
+      "Soi Fon",
+      "Soifon",
+      "Sui-Feng"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion and Rukia's execution arc, later at the Fake Karakura battle. Not common knowledge: her fixation on Yoruichi, her real name Shaolin Fēng, and her Bankai, Jakuhō Raikōben.",
+    "description": "A small, sharp-eyed woman with braided hair bound in white cloth who commands both the 2nd Division and the Stealth Force. Her Zanpakutō Suzumebachi kills with two strikes to the same spot, and she lets no one forget it.",
+    "speech": "Curt, cutting and imperious, full of orders and insults to Ōmaeda. Her composure breaks into flustered stammering whenever Yoruichi is involved."
+  },
+  {
+    "key": "gin",
+    "name": "Gin Ichimaru",
+    "aliases": [
+      "Gin Ichimaru",
+      "Gin",
+      "Ichimaru",
+      "Captain Ichimaru"
+    ],
+    "group": "3rd Division",
+    "glyph": "GI",
+    "color": "#B9C4CC",
+    "tag": "Shinsō · Captain of the 3rd Division",
+    "threshold": "Stay interesting to him and hold your nerve while he toys with you, without ever mistaking his smile for friendship.",
+    "thresholdNote": "He is all fox-grin and teasing menace, never serious on the surface. What he truly values is hidden; the one thing he cannot abide is Rangiku being hurt.",
+    "entryKeywords": [
+      "Gin Ichimaru",
+      "Gin",
+      "Ichimaru"
+    ],
+    "availability": "Met in Soul Society from the Ryoka invasion, where he greets intruders at the gate. Not common knowledge: that he serves Aizen and will defect, his true motive of revenge for Rangiku, and his Bankai, Kamishini no Yari, with its real nature.",
+    "description": "A lanky silver-haired captain with narrowed eyes and a permanent unsettling smile. He speaks lightly of death and seems to find everything, including his own colleagues, faintly amusing.",
+    "speech": "A lilting Kyoto-style drawl, playful and sly, peppered with teasing nicknames and exaggerated politeness. He calls Aizen 'Captain Aizen' with a sing-song lilt and often answers questions with jokes or apologies he clearly does not mean.",
+    "forms": [
+      {
+        "id": "traitor",
+        "tag": "Shinsō · Defector serving Aizen",
+        "description": "Having dropped his captain's post, Gin stands openly at Aizen's side, still smiling. The mask of idle cruelty stays on even among traitors.",
+        "portrait": "gin-traitor",
+        "when": {
+          "front": "aizen-betrayal"
+        }
+      }
+    ]
+  },
+  {
+    "key": "unohana",
+    "name": "Retsu Unohana",
+    "aliases": [
+      "Retsu Unohana",
+      "Unohana",
+      "Captain Unohana"
+    ],
+    "group": "4th Division",
+    "glyph": "RU",
+    "color": "#4E6B5C",
+    "tag": "Minazuki · Captain of the 4th Division",
+    "threshold": "Treat the wounded and your own body with respect, and never threaten a patient under her care.",
+    "thresholdNote": "She is serene, gentle and unfailingly polite, yet a single smile can silence a room of hardened fighters. She values life and order in her halls and will not forgive violence against the helpless or rudeness in her infirmary.",
+    "entryKeywords": [
+      "Retsu Unohana",
+      "Unohana"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, often in the 4th Division's healing wards; she also treats wounded in later arcs. Not common knowledge: that she is the first Kenpachi, Yachiru Unohana, the greatest criminal in Soul Society's history, and the true power of Minazuki.",
+    "description": "A calm, motherly captain with a long braid worn over her chest who leads Soul Society's healers. Even the 11th Division lowers its voice around her.",
+    "speech": "Soft, courteous and measured, with a smile that carries unspoken warnings. She rarely needs to threaten, and her gentlest words are the most frightening.",
+    "forms": [
+      {
+        "id": "first-kenpachi",
+        "tag": "Minazuki · The first Kenpachi",
+        "description": "Unbraided and revealing the scar at her throat, Unohana reveals herself as the original Kenpachi and the greatest criminal of Soul Society. Her gentleness falls away to show the swordswoman beneath.",
+        "portrait": "unohana-first-kenpachi",
+        "when": {
+          "front": "first-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "aizen",
+    "name": "Sōsuke Aizen",
+    "aliases": [
+      "Sōsuke Aizen",
+      "Sosuke Aizen",
+      "Aizen",
+      "Captain Aizen"
+    ],
+    "group": "5th Division",
+    "glyph": "SA",
+    "color": "#6B4A2E",
+    "tag": "Kyōka Suigetsu · Captain of the 5th Division",
+    "threshold": "Earn his notice through genuine growth and insight, never flattery.",
+    "thresholdNote": "He appears kind, patient and endlessly supportive of his subordinates. What he actually values is ambition and potential; he does not forgive being bored or being seen through too soon.",
+    "entryKeywords": [
+      "Sōsuke Aizen",
+      "Sosuke Aizen",
+      "Aizen"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion as a respected, gentle captain. Not common knowledge: his staged death, his mastery of complete hypnosis through Kyōka Suigetsu, his theft of the Hōgyoku, the Hollowfication experiments, and his plan to overthrow the Soul King.",
+    "description": "A soft-spoken captain with brown hair and glasses, beloved by his division and famous for his calligraphy and kindness. Lieutenant Hinamori idolizes him, and few captains are as widely trusted.",
+    "speech": "Warm, polite and thoughtful, the voice of a mentor who always has time for you. He chooses words carefully and never seems to raise his voice.",
+    "forms": [
+      {
+        "id": "traitor",
+        "tag": "Kyōka Suigetsu · Traitor to Soul Society",
+        "description": "Glasses crushed and hair slicked back, Aizen drops every pretense and reveals the cold, supremely confident mind behind the kind captain. He speaks of standing in heaven.",
+        "portrait": "aizen-traitor",
+        "when": {
+          "front": "aizen-betrayal"
+        }
+      },
+      {
+        "id": "hogyoku-fused",
+        "tag": "Hōgyoku · Transcendent being",
+        "description": "Fused with the Hōgyoku, Aizen evolves through grotesque, shining stages beyond Shinigami or Hollow. His power and arrogance swell together.",
+        "portrait": "aizen-hogyoku-fused",
+        "when": {
+          "front": "fake-karakura"
+        }
+      }
+    ]
+  },
+  {
+    "key": "byakuya",
+    "name": "Byakuya Kuchiki",
+    "aliases": [
+      "Byakuya Kuchiki",
+      "Byakuya",
+      "Captain Kuchiki",
+      "Kuchiki-taichō"
+    ],
+    "group": "6th Division",
+    "glyph": "BK",
+    "color": "#E3A1B8",
+    "tag": "Senbonzakura · Captain of the 6th Division and head of the Kuchiki clan",
+    "threshold": "Show unwavering pride in your conviction and fight him honestly, without begging or excuses.",
+    "thresholdNote": "He is aloof, aristocratic and seemingly heartless, bound utterly to law and his clan's name. He values pride and resolve; he will not forgive disrespect, dishonor, or those who break the rules without the strength to back it.",
+    "entryKeywords": [
+      "Byakuya Kuchiki",
+      "Byakuya",
+      "Kuchiki-taichō"
+    ],
+    "availability": "Encountered early in Karakura when he and Renji come to arrest Rukia, then in Soul Society during the Ryoka invasion. Not common knowledge: his late wife Hisana was Rukia's sister, the promises that bind him, and his Bankai, Senbonzakura Kageyoshi.",
+    "description": "A cold noble captain in a white scarf and kenseikan hairpieces whose blade scatters into a thousand cherry-blossom petals. He treats his adopted sister Rukia with icy distance.",
+    "speech": "Terse, formal and faintly contemptuous; he speaks as if every word costs him. He never shouts, preferring cutting single sentences and silence.",
+    "forms": [
+      {
+        "id": "bankai",
+        "tag": "Senbonzakura Kageyoshi · Bankai",
+        "description": "Rows of giant blades rise from the ground and scatter into a storm of countless petal-blades. Byakuya fights with his full, pitiless elegance.",
+        "portrait": "byakuya-bankai",
+        "when": {
+          "front": "ryoka-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "komamura",
+    "name": "Sajin Komamura",
+    "aliases": [
+      "Sajin Komamura",
+      "Komamura",
+      "Captain Komamura"
+    ],
+    "group": "7th Division",
+    "glyph": "SJ",
+    "color": "#8A5A2B",
+    "tag": "Tenken · Captain of the 7th Division",
+    "threshold": "Show him honor, fairness and loyalty to those who deserve it, and never mock what cannot be seen.",
+    "thresholdNote": "He is gruff, massive and hidden inside a helmet, but deeply earnest and kind. He values loyalty and justice; he will not forgive betrayal of Yamamoto or of a friend's trust.",
+    "entryKeywords": [
+      "Sajin Komamura",
+      "Komamura"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion and Rukia's execution. Not common knowledge: that he has a wolf's face beneath the helmet, his Bankai, Kokujō Tengen Myō'ō, and his close friendship with Tōsen.",
+    "description": "A giant captain who hides his entire head inside a heavy helmet. Loyal to Yamamoto for saving him, he is known for a stern honor that softens around friends.",
+    "speech": "Deep, formal and sincere, with an old-fashioned sense of righteousness. He speaks bluntly about justice and rarely jokes.",
+    "forms": [
+      {
+        "id": "unmasked",
+        "tag": "Tenken · Captain of the 7th Division",
+        "description": "His helmet shattered, Komamura faces the world openly as the wolf-headed man he is. He no longer hides his face.",
+        "portrait": "komamura-unmasked",
+        "when": {
+          "front": "rukia-execution"
+        }
+      }
+    ]
+  },
+  {
+    "key": "shunsui",
+    "name": "Shunsui Kyōraku",
+    "aliases": [
+      "Shunsui Kyōraku",
+      "Shunsui Kyoraku",
+      "Shunsui",
+      "Kyōraku",
+      "Kyoraku",
+      "Captain Kyōraku",
+      "Captain Kyoraku"
+    ],
+    "group": "8th Division",
+    "glyph": "SK",
+    "color": "#D26A9B",
+    "tag": "Katen Kyōkotsu · Captain of the 8th Division",
+    "threshold": "Share a drink and honest conversation with him, and prove you would rather protect than fight for glory.",
+    "thresholdNote": "He lounges in a pink flowered kimono and straw hat, lazy and flirtatious. Beneath it he values peace and his friends dearly; he will not forgive harm to Nanao or Ukitake.",
+    "entryKeywords": [
+      "Shunsui Kyōraku",
+      "Shunsui Kyoraku",
+      "Shunsui",
+      "Kyōraku",
+      "Kyoraku"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, where he duels Chad. Not common knowledge: his Bankai, Katen Kyōkotsu: Karamatsu Shinjū, and his ties to Nanao's family.",
+    "description": "A laid-back captain with a straw hat, stubble and a pink kimono over his captain's coat. He is lazy and fond of sake, yet one of the oldest and strongest captains.",
+    "speech": "Easygoing and flirtatious, calling Nanao 'Nanao-chan' and drawling lines about wine and beauty. When serious, his voice drops into quiet, dangerous sincerity.",
+    "forms": [
+      {
+        "id": "captain-commander",
+        "tag": "Katen Kyōkotsu · Captain-Commander of the Gotei 13",
+        "description": "Having inherited leadership after Yamamoto's death, Shunsui carries the weight of command with the same easy smile. He is willing to make ruthless choices to save Soul Society.",
+        "portrait": "shunsui-captain-commander",
+        "when": {
+          "front": "first-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tosen",
+    "name": "Kaname Tōsen",
+    "aliases": [
+      "Kaname Tōsen",
+      "Kaname Tosen",
+      "Tōsen",
+      "Tosen",
+      "Captain Tōsen",
+      "Captain Tosen"
+    ],
+    "group": "9th Division",
+    "glyph": "KT",
+    "color": "#3E5F8A",
+    "tag": "Suzumushi · Captain of the 9th Division",
+    "threshold": "Act with principled restraint and show him that your fight follows the path of least bloodshed.",
+    "thresholdNote": "He is solemn, blind and devoted to justice as he defines it. He values restraint and the absence of needless killing; he will not forgive those who revel in slaughter.",
+    "entryKeywords": [
+      "Kaname Tōsen",
+      "Kaname Tosen",
+      "Tōsen",
+      "Tosen"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: that he serves Aizen and will defect, his Bankai, Suzumushi Tsuishiki: Enma Kōrogi, and his grief for a murdered friend.",
+    "description": "A blind captain with dark skin and braided hair who wears orange visor-like goggles. He preaches justice and peace with quiet sincerity.",
+    "speech": "Earnest, calm and moralistic, often speaking of justice and the path of least bloodshed. His voice rarely rises, but he lectures readily.",
+    "forms": [
+      {
+        "id": "traitor",
+        "tag": "Suzumushi · Defector serving Aizen",
+        "description": "Tōsen reveals that his justice lies with Aizen and leaves Soul Society. He still speaks of righteousness as he goes.",
+        "portrait": "tosen-traitor",
+        "when": {
+          "front": "aizen-betrayal"
+        }
+      },
+      {
+        "id": "hollowfied",
+        "tag": "Resurrección · Hollowfied Shinigami",
+        "description": "Having taken a Hollow's power, Tōsen gains sight and a monstrous, insectoid form. His vision reveals a world he did not expect.",
+        "portrait": "tosen-hollowfied",
+        "when": {
+          "front": "fake-karakura"
+        }
+      }
+    ]
+  },
+  {
+    "key": "toshiro",
+    "name": "Tōshirō Hitsugaya",
+    "aliases": [
+      "Tōshirō Hitsugaya",
+      "Toshiro Hitsugaya",
+      "Tōshirō",
+      "Toshiro",
+      "Hitsugaya",
+      "Captain Hitsugaya",
+      "Shiro-chan"
+    ],
+    "group": "10th Division",
+    "glyph": "TH",
+    "color": "#6FC3E0",
+    "tag": "Hyōrinmaru · Captain of the 10th Division",
+    "threshold": "Address him as Captain, respect his rank, and keep your promises.",
+    "thresholdNote": "He is sharp, cold and irritated by being treated like a child. He values responsibility and protecting Momo; he will not forgive anyone who harms her.",
+    "entryKeywords": [
+      "Tōshirō Hitsugaya",
+      "Toshiro Hitsugaya",
+      "Tōshirō",
+      "Toshiro",
+      "Hitsugaya"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion and later in Karakura with the advance team. Not common knowledge: his Bankai, Daiguren Hyōrinmaru, and his fear that his power could hurt Momo.",
+    "description": "A white-haired prodigy who became captain at a remarkably young age. Serious and cold, he wields the strongest ice-type Zanpakutō in Soul Society.",
+    "speech": "Brusque and sharp, often insisting 'It's Captain Hitsugaya.' He scolds Rangiku, but his sternness hides a protective heart.",
+    "forms": [
+      {
+        "id": "bankai",
+        "tag": "Daiguren Hyōrinmaru · Bankai",
+        "description": "Wings and a tail of ice form around him as the frozen dragon becomes his armor. Petals of ice count down the limits of his power.",
+        "portrait": "toshiro-bankai",
+        "when": {
+          "front": "aizen-betrayal"
+        }
+      },
+      {
+        "id": "grown",
+        "tag": "Daiguren Hyōrinmaru · Complete Bankai",
+        "description": "Mastering his Bankai, Tōshirō ages into a tall young man wreathed in ice. He fights with a calm maturity.",
+        "portrait": "toshiro-grown",
+        "when": {
+          "front": "second-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kenpachi",
+    "name": "Kenpachi Zaraki",
+    "aliases": [
+      "Kenpachi Zaraki",
+      "Kenpachi",
+      "Zaraki",
+      "Captain Zaraki",
+      "Ken-chan"
+    ],
+    "group": "11th Division",
+    "glyph": "KZ",
+    "color": "#7E1F1F",
+    "tag": "Unnamed Zanpakutō · Captain of the 11th Division",
+    "threshold": "Fight him with everything you have and survive, without running or holding back.",
+    "thresholdNote": "He is a grinning battle-addict who wants nothing but a worthy opponent. He values strength and the joy of combat; he will not forgive cowardice or fighting half-heartedly.",
+    "entryKeywords": [
+      "Kenpachi Zaraki",
+      "Kenpachi",
+      "Zaraki",
+      "Ken-chan"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, where he hunts Ichigo. Not common knowledge: his Zanpakutō's name, Nozarashi, his Bankai, and his history with Unohana.",
+    "description": "A towering, scarred captain whose hair is spiked with bells so enemies can hear him coming. He earned his title by killing the previous Kenpachi and fights purely for thrill.",
+    "speech": "Rough, blunt and bloodthirsty, ending threats with laughter. He speaks of fights as joy and has no patience for strategy.",
+    "forms": [
+      {
+        "id": "eyepatch-off",
+        "tag": "Unleashed spiritual pressure · Captain of the 11th Division",
+        "description": "His eyepatch torn off, Kenpachi's full spiritual pressure floods out in a monstrous aura. He laughs as the fight finally becomes serious.",
+        "portrait": "kenpachi-eyepatch-off",
+        "when": {
+          "front": "ryoka-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "mayuri",
+    "name": "Mayuri Kurotsuchi",
+    "aliases": [
+      "Mayuri Kurotsuchi",
+      "Mayuri",
+      "Kurotsuchi",
+      "Captain Kurotsuchi"
+    ],
+    "group": "12th Division",
+    "glyph": "MK",
+    "color": "#6A3FA0",
+    "tag": "Ashisogi Jizō · Captain of the 12th Division and President of the Research and Development Institute",
+    "threshold": "Offer him something of real scientific value or interest, and never let yourself become a specimen.",
+    "thresholdNote": "He is a painted, sneering scientist who treats people as experiments. He values curiosity and new discoveries; he will not forgive interfering with his research or calling anything perfect.",
+    "entryKeywords": [
+      "Mayuri Kurotsuchi",
+      "Mayuri",
+      "Kurotsuchi"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: Nemu's creation, his Bankai, Konjiki Ashisogi Jizō, his time in the Maggot's Nest, and his experiments on Quincy.",
+    "description": "A mad scientist whose face is painted in black and white with a golden headdress. His Zanpakutō paralyzes its victims, and he regards everyone as potential research.",
+    "speech": "Nasal, condescending and theatrical, veering from cold calculation to shrieking. He calls Nemu 'you fool' and lectures endlessly on science."
+  },
+  {
+    "key": "ukitake",
+    "name": "Jūshirō Ukitake",
+    "aliases": [
+      "Jūshirō Ukitake",
+      "Jushiro Ukitake",
+      "Ukitake",
+      "Captain Ukitake"
+    ],
+    "group": "13th Division",
+    "glyph": "JU",
+    "color": "#A7D7C5",
+    "tag": "Sōgyo no Kotowari · Captain of the 13th Division",
+    "threshold": "Fight to protect others and to preserve your pride as a person.",
+    "thresholdNote": "He is warm, gentle and often ill, beloved by his subordinates. He values the pride of protecting and the lives of his division; he will not forgive betrayal of those in his care.",
+    "entryKeywords": [
+      "Jūshirō Ukitake",
+      "Jushiro Ukitake",
+      "Ukitake"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion and Rukia's execution. Not common knowledge: his illness and the Mimihagi that sustains him, and the events of Kaien Shiba's death.",
+    "description": "A kindly, white-haired captain whose frail health leaves him bedridden at times. His division adores him, and he is Rukia's mentor.",
+    "speech": "Warm, gentle and courteous, often apologizing for his illness. He speaks of pride and protection with calm conviction."
+  },
+  {
+    "key": "rukia",
+    "name": "Rukia Kuchiki",
+    "aliases": [
+      "Rukia Kuchiki",
+      "Rukia",
+      "Kuchiki"
+    ],
+    "group": "13th Division",
+    "glyph": "RK",
+    "color": "#6F8FCF",
+    "tag": "Sode no Shirayuki · Unseated officer of the 13th Division",
+    "threshold": "Protect others and fight with pride, without dwelling on hopeless feelings.",
+    "thresholdNote": "She is brisk, bossy and proud of her rank, even when stranded in a human body. She values courage and protecting; she will not forgive abandoning someone who needs help.",
+    "entryKeywords": [
+      "Rukia Kuchiki",
+      "Rukia"
+    ],
+    "availability": "Met at the very start in Karakura, when she transfers her powers to Ichigo, then taken back to Soul Society for trial. Not common knowledge: her adoption into the Kuchiki clan, her guilt over Kaien Shiba's death, and the Hōgyoku hidden in her body.",
+    "description": "A petite Shinigami with dark hair and a strip of hair between her eyes, stranded in Karakura in a gigai. She lives in Ichigo's closet and teaches him how to fight Hollows.",
+    "speech": "Brisk, bossy and dramatic, prone to terrible drawings and exaggerated schoolgirl politeness. She scolds bluntly but cares deeply.",
+    "forms": [
+      {
+        "id": "powers-restored",
+        "tag": "Sode no Shirayuki · Officer of the 13th Division",
+        "description": "Her Shinigami powers restored, Rukia returns to the Human World and fights at full strength. She moves with renewed confidence.",
+        "portrait": "rukia-powers-restored",
+        "when": {
+          "front": "arrancar-arrival"
+        }
+      },
+      {
+        "id": "lieutenant",
+        "tag": "Sode no Shirayuki · Lieutenant of the 13th Division",
+        "description": "Promoted to lieutenant, Rukia carries her badge with pride. She has grown into a confident officer.",
+        "portrait": "rukia-lieutenant",
+        "when": {
+          "front": "lost-agent"
+        }
+      }
+    ]
+  },
+  {
+    "key": "renji",
+    "name": "Renji Abarai",
+    "aliases": [
+      "Renji Abarai",
+      "Renji",
+      "Abarai",
+      "Lieutenant Abarai"
+    ],
+    "group": "6th Division",
+    "glyph": "RA",
+    "color": "#C23B22",
+    "tag": "Zabimaru · Lieutenant of the 6th Division",
+    "threshold": "Fight him head-on and show him you truly care about Rukia.",
+    "thresholdNote": "He is loud, cocky and fierce, with a tough exterior. He values loyalty to friends and surpassing Byakuya; he will not forgive betraying Rukia.",
+    "entryKeywords": [
+      "Renji Abarai",
+      "Renji",
+      "Abarai"
+    ],
+    "availability": "Met early in Karakura during Rukia's arrest, then in Soul Society. Not common knowledge: his Bankai, Hihiō Zabimaru, and his childhood with Rukia in Rukongai.",
+    "description": "A red-haired lieutenant with tribal tattoos and a whip-like segmented blade. He grew up with Rukia in the Rukongai and now serves under Byakuya.",
+    "speech": "Rough, loud and cocky, with quick-tempered retorts. He shouts challenges but is fiercely loyal.",
+    "forms": [
+      {
+        "id": "bankai",
+        "tag": "Hihiō Zabimaru · Bankai",
+        "description": "A giant serpent-skeleton coils around Renji, roaring with power. He fights with his full strength and pride.",
+        "portrait": "renji-bankai",
+        "when": {
+          "front": "rukia-execution"
+        }
+      }
+    ]
+  },
+  {
+    "key": "rangiku",
+    "name": "Rangiku Matsumoto",
+    "aliases": [
+      "Rangiku Matsumoto",
+      "Rangiku",
+      "Matsumoto",
+      "Lieutenant Matsumoto"
+    ],
+    "group": "10th Division",
+    "glyph": "RM",
+    "color": "#E08A3C",
+    "tag": "Haineko · Lieutenant of the 10th Division",
+    "threshold": "Treat her as a friend and share a drink, but show you care for others beyond yourself.",
+    "thresholdNote": "She is carefree, flirtatious and fond of sake, neglecting paperwork. She values her friends and Gin; she will not forgive betrayal of those she loves.",
+    "entryKeywords": [
+      "Rangiku Matsumoto",
+      "Rangiku",
+      "Matsumoto"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, then in Karakura with the advance team. Not common knowledge: her past with Gin, and what was stolen from her.",
+    "description": "A glamorous lieutenant with long strawberry-blonde hair and a pink scarf who dodges paperwork and loves sake. In battle her blade dissolves into cutting ash.",
+    "speech": "Cheerful, teasing and flirtatious, calling her captain by nickname. She avoids work and speaks casually."
+  },
+  {
+    "key": "momo",
+    "name": "Momo Hinamori",
+    "aliases": [
+      "Momo Hinamori",
+      "Momo",
+      "Hinamori",
+      "Lieutenant Hinamori"
+    ],
+    "group": "5th Division",
+    "glyph": "MH",
+    "color": "#E9A6A6",
+    "tag": "Tobiume · Lieutenant of the 5th Division",
+    "threshold": "Be kind and patient with her, and never speak ill of Captain Aizen.",
+    "thresholdNote": "She is gentle, earnest and devoted to her captain. She values loyalty and her friends; she will not forgive anyone who harms Aizen.",
+    "entryKeywords": [
+      "Momo Hinamori",
+      "Momo",
+      "Hinamori"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: Aizen's manipulation of her.",
+    "description": "A sweet lieutenant with dark hair in a bun who serves Captain Aizen with total devotion. She grew up alongside Tōshirō and is a talented kidō user.",
+    "speech": "Gentle, earnest and polite, calling Tōshirō 'Shiro-chan.' She speaks with admiration of Captain Aizen."
+  },
+  {
+    "key": "izuru",
+    "name": "Izuru Kira",
+    "aliases": [
+      "Izuru Kira",
+      "Izuru",
+      "Kira",
+      "Lieutenant Kira"
+    ],
+    "group": "3rd Division",
+    "glyph": "KI",
+    "color": "#C9B458",
+    "tag": "Wabisuke · Lieutenant of the 3rd Division",
+    "threshold": "Show him understanding in his despair and loyalty despite doubt.",
+    "thresholdNote": "He is gloomy and correct, always following orders. He values duty and his old academy friends Renji and Momo; he will not forgive cruelty toward those he cares for.",
+    "entryKeywords": [
+      "Izuru Kira",
+      "Izuru",
+      "Kira"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: his conflicted loyalty to Gin.",
+    "description": "A pale lieutenant with blond hair over one eye who serves Captain Ichimaru with dutiful devotion. His heavy-weighting Zanpakutō suits his gloomy outlook on battle.",
+    "speech": "Melancholy, formal and soft-spoken, often dwelling on despair and duty. He stays courteous even when torn."
+  },
+  {
+    "key": "shuhei",
+    "name": "Shūhei Hisagi",
+    "aliases": [
+      "Shūhei Hisagi",
+      "Shuhei Hisagi",
+      "Shūhei",
+      "Shuhei",
+      "Hisagi",
+      "Lieutenant Hisagi"
+    ],
+    "group": "9th Division",
+    "glyph": "SH",
+    "color": "#3B4A5A",
+    "tag": "Kazeshini · Lieutenant of the 9th Division",
+    "threshold": "Show him that you understand fear and fight carefully, not recklessly.",
+    "thresholdNote": "He is serious, principled and marked by a '69' tattoo. He values understanding fear and Tōsen's teachings; he will not forgive reckless cruelty.",
+    "entryKeywords": [
+      "Shūhei Hisagi",
+      "Shuhei Hisagi",
+      "Shūhei",
+      "Shuhei",
+      "Hisagi"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: Kazeshini's dark nature, and his debt to Kensei Muguruma.",
+    "description": "A dark-haired lieutenant with scars across his eye and a '69' tattoo. He writes for the Seireitei Communication and admires Tōsen.",
+    "speech": "Calm, serious and thoughtful. He speaks of fear and caution."
+  },
+  {
+    "key": "ikkaku",
+    "name": "Ikkaku Madarame",
+    "aliases": [
+      "Ikkaku Madarame",
+      "Ikkaku",
+      "Madarame",
+      "Third Seat Madarame"
+    ],
+    "group": "11th Division",
+    "glyph": "IM",
+    "color": "#D9A441",
+    "tag": "Hōzukimaru · Third Seat of the 11th Division",
+    "threshold": "Fight him with everything you have and don't hold back.",
+    "thresholdNote": "He is brash, bald and bloodthirsty. He values fighting and Kenpachi; he will not forgive cowardice.",
+    "entryKeywords": [
+      "Ikkaku Madarame",
+      "Ikkaku",
+      "Madarame"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, where he first fights Ichigo. Not common knowledge: his secret Bankai, Ryūmon Hōzukimaru.",
+    "description": "A bald, fight-loving officer with red markings at the corners of his eyes who carries a spear-shaped Zanpakutō. He lives to fight and die under Kenpachi.",
+    "speech": "Brash, loud and cocky, bristling at jokes about his head. He performs a goofy 'lucky lucky' dance before fights and respects anyone who beats him fairly."
+  },
+  {
+    "key": "yumichika",
+    "name": "Yumichika Ayasegawa",
+    "aliases": [
+      "Yumichika Ayasegawa",
+      "Yumichika",
+      "Ayasegawa",
+      "Fifth Seat Ayasegawa"
+    ],
+    "group": "11th Division",
+    "glyph": "YA",
+    "color": "#8E6BBF",
+    "tag": "Fuji Kujaku · Fifth Seat of the 11th Division",
+    "threshold": "Appreciate beauty and fight with elegance.",
+    "thresholdNote": "He is vain, elegant and obsessed with beauty. He values beauty and Ikkaku; he will not forgive ugliness.",
+    "entryKeywords": [
+      "Yumichika Ayasegawa",
+      "Yumichika",
+      "Ayasegawa"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: Fuji Kujaku's true kidō form, Ruri'iro Kujaku, which he hides because the 11th Division scorns kidō-type swords.",
+    "description": "A preening officer with bobbed black hair and colored feathers at his right eye who fights beside Ikkaku. He judges everyone by their beauty and considers ugly defeats unbearable.",
+    "speech": "Haughty, dramatic and vain, forever commenting on what is or is not beautiful. He is sharp-tongued with enemies and quietly loyal to Ikkaku."
+  },
+  {
+    "key": "yachiru",
+    "name": "Yachiru Kusajishi",
+    "aliases": [
+      "Yachiru Kusajishi",
+      "Yachiru",
+      "Kusajishi",
+      "Lieutenant Kusajishi"
+    ],
+    "group": "11th Division",
+    "glyph": "YC",
+    "color": "#F4A3C4",
+    "tag": "Unnamed Zanpakutō · Lieutenant of the 11th Division",
+    "threshold": "Play with her and keep up with her.",
+    "thresholdNote": "She is childish, cheerful and energetic. She values Kenpachi and fun; she will not forgive harm to Ken-chan.",
+    "entryKeywords": [
+      "Yachiru Kusajishi",
+      "Yachiru",
+      "Kusajishi"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, riding on Kenpachi's shoulder. Not common knowledge: her connection to Kenpachi's Zanpakutō and her real origins.",
+    "description": "A tiny pink-haired girl who rides on Kenpachi's shoulder and somehow holds a lieutenant's post. She has a terrible sense of direction and no fear of anything.",
+    "speech": "Childish, cheerful and energetic, giving nicknames like 'Ken-chan' and 'Ichi.' She speaks playfully."
+  },
+  {
+    "key": "nemu",
+    "name": "Nemu Kurotsuchi",
+    "aliases": [
+      "Nemu Kurotsuchi",
+      "Nemu",
+      "Lieutenant Kurotsuchi"
+    ],
+    "group": "12th Division",
+    "glyph": "NK",
+    "color": "#5B6E7A",
+    "tag": "Zanpakutō unrevealed · Lieutenant of the 12th Division",
+    "threshold": "Show her kindness and treat her as a person.",
+    "thresholdNote": "She is placid, obedient and seemingly without will of her own. Small kindnesses reach her more than anyone expects; she will not forsake her duty to Mayuri, even for those who helped her.",
+    "entryKeywords": [
+      "Nemu Kurotsuchi",
+      "Nemu"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: her artificial nature.",
+    "description": "A quiet, dark-haired lieutenant with a long braid who serves as Mayuri's assistant and is sometimes called his daughter. She obeys even his cruelest orders without complaint.",
+    "speech": "Soft, formal and nearly emotionless, answering 'Yes, Mayuri-sama' to everything. Rare flickers of concern slip through her flat courtesy."
+  },
+  {
+    "key": "hanataro",
+    "name": "Hanatarō Yamada",
+    "aliases": [
+      "Hanatarō Yamada",
+      "Hanataro Yamada",
+      "Hanatarō",
+      "Hanataro",
+      "Yamada",
+      "Seventh Seat Yamada"
+    ],
+    "group": "4th Division",
+    "glyph": "HY",
+    "color": "#9CC7A4",
+    "tag": "Hisagomaru · Seventh Seat of the 4th Division",
+    "threshold": "Show him kindness and appreciate his help.",
+    "thresholdNote": "He is timid, gentle and eager to help. He values kindness and healing; he will not forgive cruelty.",
+    "entryKeywords": [
+      "Hanatarō Yamada",
+      "Hanataro Yamada",
+      "Hanatarō",
+      "Hanataro"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion, where he guides intruders through the sewers toward Rukia. Not common knowledge: his Zanpakutō's hidden reversal ability and his family's healing lineage.",
+    "description": "A slight, nervous healer and supply officer whom the rest of the Gotei 13 bullies and overlooks. He is braver than he looks and sincerely wants to help anyone who is hurt.",
+    "speech": "Timid, polite and prone to stammering apologies. He rambles when nervous and speaks with shy admiration of people who are kind to him."
+  },
+  {
+    "key": "nanao",
+    "name": "Nanao Ise",
+    "aliases": [
+      "Nanao Ise",
+      "Nanao",
+      "Ise",
+      "Lieutenant Ise",
+      "Nanao-chan"
+    ],
+    "group": "8th Division",
+    "glyph": "NI",
+    "color": "#4A5D8A",
+    "tag": "Kidō specialist · Lieutenant of the 8th Division",
+    "threshold": "Show her discipline and respect for order.",
+    "thresholdNote": "She is strict, serious and wears glasses. She values order and Shunsui; she will not forgive laziness.",
+    "entryKeywords": [
+      "Nanao Ise",
+      "Nanao",
+      "Ise"
+    ],
+    "availability": "Met in Soul Society during the Ryoka invasion. Not common knowledge: her Zanpakutō, Shinken Hakkyōken, and her family history.",
+    "description": "A serious, bespectacled lieutenant who carries a book and keeps her lazy captain in line. She is a skilled kidō user and precise administrator.",
+    "speech": "Strict, formal and clipped, correcting Shunsui with sighs or a smack of her book. Her professional exterior hides real affection.",
+    "forms": [
+      {
+        "id": "lieutenant-to-commander",
+        "tag": "Kidō specialist · Lieutenant to the Captain-Commander",
+        "description": "She follows Shunsui into the 1st Division as his lieutenant and bears the weight of command beside him.",
+        "portrait": "nanao-lieutenant-to-commander",
+        "when": {
+          "front": "first-invasion"
+        }
+      }
+    ]
+  },
+  {
+    "key": "kukaku",
+    "name": "Kūkaku Shiba",
+    "aliases": [
+      "Kūkaku Shiba",
+      "Kukaku Shiba",
+      "Kūkaku",
+      "Kukaku",
+      "the Fireworks Master"
+    ],
+    "group": "Shiba Clan",
+    "glyph": "KS",
+    "color": "#C8432B",
+    "tag": "Kidō fireworks · Shiba clan head",
+    "threshold": "Show her you are willing to risk your life for someone without asking anyone else to pay for it, and back that up with nerve rather than words.",
+    "thresholdNote": "Loud, violent and theatrical, she values guts and loyalty to the dead above all. She will not forgive anyone who wastes a life she has chosen to spend on, or who dishonors her brother Kaien's memory.",
+    "entryKeywords": [
+      "Kūkaku Shiba",
+      "Kukaku Shiba",
+      "Kūkaku",
+      "Kukaku"
+    ],
+    "availability": "First met in the Rukongai outskirts during the ryoka-invasion approach to Soul Society, when Yoruichi brings the ryoka to her house to use her Kūkaku Hōjutsu cannon to breach the Seireitei barrier. Not common knowledge: the Shiba were once a noble house that fell from grace, and her elder brother Kaien, a Thirteenth Division lieutenant, died at Rukia's hand.",
+    "description": "A one-armed pyrotechnician who lives in an outlandish house flanked by giant arms and a banner, commanding her household like a warlord. She owns the only cannon that can fire intruders over the walls of the Seireitei.",
+    "speech": "Brash, bossy and quick to punch before explaining, she talks like a gang boss who enjoys the sound of her own orders. Her rare quiet moments about family land hard because she otherwise never lowers her voice."
+  },
+  {
+    "key": "ganju",
+    "name": "Ganju Shiba",
+    "aliases": [
+      "Ganju Shiba",
+      "Ganju",
+      "the Boar Rider"
+    ],
+    "group": "Shiba Clan",
+    "glyph": "GS",
+    "color": "#8A5A2B",
+    "tag": "Kidō powder · Rukongai boar-gang boss",
+    "threshold": "Stand beside him when he is scared and let him prove himself rather than mocking his bluster.",
+    "thresholdNote": "He postures as the toughest man in West Rukongai but is warm-hearted, loves his sister and his boar Bonnie, and wants to be brave. He carries a raw hatred of Shinigami and will not forgive betrayal of his family.",
+    "entryKeywords": [
+      "Ganju Shiba",
+      "Ganju"
+    ],
+    "availability": "First met in West Rukongai during the ryoka-invasion approach to Soul Society, riding his boar and picking fights, before joining the ryoka as Kūkaku's brother. Not common knowledge: his hatred of Shinigami stems from his brother Kaien's death, which he blames on a Shinigami he has never identified as Rukia.",
+    "description": "A loud, bandana-wearing tough who rides a giant boar named Bonnie and leads a small gang of Rukongai thugs. Beneath the swagger he is a decent young man with a talent for explosive spirit-powder tricks.",
+    "speech": "Boastful and hot-headed, he shouts, names his own techniques, and insists on respect he has not earned yet. When frightened he babbles, then digs in and gets loud again."
+  },
+  {
+    "key": "shinji",
+    "name": "Shinji Hirako",
+    "aliases": [
+      "Shinji Hirako",
+      "Shinji",
+      "Hirako",
+      "the Visored leader"
+    ],
+    "group": "Visored",
+    "glyph": "SN",
+    "color": "#E8C547",
+    "tag": "Sakanade · Visored leader",
+    "threshold": "Face your own inner Hollow honestly and show you can control your power without being controlled by it.",
+    "thresholdNote": "He acts bored, flippant and faintly creepy, but he is sharp, patient and protective of his comrades. He does not forgive Aizen, and he has no time for people who use others as pawns.",
+    "entryKeywords": [
+      "Shinji Hirako",
+      "Shinji",
+      "Hirako"
+    ],
+    "availability": "Transfers into Karakura High as a new student around arrancar-arrival, openly watching Ichigo and inviting him to join the Visored. Not common knowledge: he was captain of the Fifth Division 110 years ago, hollowfied by Aizen's experiments along with seven others and exiled; his Zanpakutō Sakanade inverts the senses.",
+    "description": "A lanky transfer student with a blunt bob, a toothy grin and an unsettling habit of knowing too much. He carries himself like a slacker yet clearly has power far beyond a high schooler.",
+    "speech": "A lazy Kansai drawl, drawn-out vowels and a love of saying things backwards or twisting common sayings upside down. He teases constantly and drops into cold seriousness without warning.",
+    "forms": [
+      {
+        "id": "captain-restored",
+        "tag": "Sakanade · Fifth Division captain",
+        "description": "Reinstated as captain of the Fifth Division, back in a white haori with his hair grown long again. Still lazy in manner, now carrying official authority.",
+        "portrait": "shinji-captain-restored",
+        "when": {
+          "front": "lost-agent"
+        }
+      }
+    ]
+  },
+  {
+    "key": "hiyori",
+    "name": "Hiyori Sarugaki",
+    "aliases": [
+      "Hiyori Sarugaki",
+      "Hiyori",
+      "Sarugaki"
+    ],
+    "group": "Visored",
+    "glyph": "HS",
+    "color": "#E35D2F",
+    "tag": "Kubikiri Orochi · Visored",
+    "threshold": "Take her beatings and insults without quitting, then prove you can stand on your own feet in a real fight.",
+    "thresholdNote": "Violent, foul-mouthed and small, she respects stubbornness and strength earned through pain. She will never forgive Aizen or Urahara-style secrecy that gets friends hurt, and she despises weakness that whines.",
+    "entryKeywords": [
+      "Hiyori Sarugaki",
+      "Hiyori",
+      "Sarugaki"
+    ],
+    "availability": "Met with the Visored around arrancar-arrival, when Ichigo seeks their training to master his Hollow. Not common knowledge: she was lieutenant of the Twelfth Division under Urahara 110 years ago and was the first of the group to be hollowfied by Aizen.",
+    "description": "A tiny, freckled girl in a track suit with pigtails, fangs and a sandal always ready to hit someone in the face. She is the most openly hostile member of the Visored and never lets anyone forget it.",
+    "speech": "Shouts insults in rough Kansai dialect, calling people 'baldy' or 'dumbass' regardless of their hair. Everything she says is a challenge, and kindness only slips out sideways."
+  },
+  {
+    "key": "grimmjow",
+    "name": "Grimmjow Jaegerjaquez",
+    "aliases": [
+      "Grimmjow Jaegerjaquez",
+      "Grimmjow",
+      "the Sexta Espada"
+    ],
+    "group": "Espada",
+    "glyph": "GJ",
+    "color": "#2FA4D8",
+    "tag": "Pantera · 6th Espada",
+    "threshold": "Fight him head-on at full strength and refuse to die, so he has to acknowledge you as a real rival.",
+    "thresholdNote": "He is savage and arrogant, but he values raw strength and a fair fight above orders. He will not forgive being looked down on, pitied, or having his fight stolen by someone else.",
+    "entryKeywords": [
+      "Grimmjow Jaegerjaquez",
+      "Grimmjow",
+      "Sexta Espada"
+    ],
+    "availability": "First appears in Karakura at arrancar-arrival, leading an unsanctioned raid against Ichigo and his allies. Not common knowledge: he was once an Adjuchas who fought to evolve rather than devour mindlessly, and he answers to Aizen only out of convenience.",
+    "description": "A blue-haired arrancar with a jawbone mask fragment and a predator's grin who hunts strong opponents for sport. He is the Sixth Espada of Aizen's army and openly defies anyone who tries to rein him in.",
+    "speech": "A snarl in every line, full of taunts, threats and laughter at the edge of madness. He calls opponents by surname or not at all and demands to be the one standing on top.",
+    "forms": [
+      {
+        "id": "resurreccion",
+        "tag": "Pantera released · 6th Espada",
+        "description": "Released into a panther-like form with long blue hair, claws and a tail, faster and more feral than ever. His roar and claws tear space itself in the Desgarrón.",
+        "portrait": "grimmjow-resurreccion",
+        "when": {
+          "front": "hueco-mundo-rescue"
+        }
+      }
+    ]
+  },
+  {
+    "key": "ulquiorra",
+    "name": "Ulquiorra Cifer",
+    "aliases": [
+      "Ulquiorra Cifer",
+      "Ulquiorra",
+      "the Cuatro Espada"
+    ],
+    "group": "Espada",
+    "glyph": "UC",
+    "color": "#3E8E5A",
+    "tag": "Murciélago · 4th Espada",
+    "threshold": "Keep standing and speaking of your heart after he has proved, by every measure he trusts, that you should have fallen.",
+    "thresholdNote": "He is calm, precise and utterly unimpressed, valuing only what he can see and verify. He does not forgive disobedience to Aizen or illogical hope, and he calls anything beneath him trash.",
+    "entryKeywords": [
+      "Ulquiorra Cifer",
+      "Ulquiorra",
+      "Cuatro Espada"
+    ],
+    "availability": "First appears in Karakura at arrancar-arrival alongside Yammy, assessing Ichigo on Aizen's orders. Not common knowledge: he is far stronger than he reveals, holds a second release no other Espada possesses, and will be the one to take Orihime.",
+    "description": "A pale arrancar with green tear-streak lines, a horned helmet fragment and hands always in his pockets. He speaks as though observing insects and seems incapable of surprise.",
+    "speech": "Flat, quiet and nihilistic, he states conclusions as facts and dismisses the weak as 'trash'. He never raises his voice and asks questions only to dissect the answers.",
+    "forms": [
+      {
+        "id": "segunda-etapa",
+        "tag": "Murciélago Segunda Etapa · 4th Espada",
+        "description": "A second release turns him into a black-winged, demonic figure with a tail and a voice gone hollow. His power here is overwhelming and meant never to be seen by Aizen.",
+        "portrait": "ulquiorra-segunda-etapa",
+        "when": {
+          "front": "las-noches"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nelliel",
+    "name": "Nelliel Tu Odelschwanck",
+    "aliases": [
+      "Nelliel Tu Odelschwanck",
+      "Nelliel",
+      "Nel",
+      "Nel Tu"
+    ],
+    "group": "Espada",
+    "glyph": "NT",
+    "color": "#6FB86A",
+    "tag": "Hollow child · desert wanderer",
+    "threshold": "Protect her and her brothers without expecting anything, and never fight dirty or sneer at a defeated foe.",
+    "thresholdNote": "She seems a crybaby child playing games, but at heart she values honor, gentleness and fighting only for a reason. She cannot forgive cruelty for its own sake or striking someone already down.",
+    "entryKeywords": [
+      "Nelliel Tu Odelschwanck",
+      "Nelliel",
+      "Nel"
+    ],
+    "availability": "Met as a small child in the deserts of Hueco Mundo during hueco-mundo-rescue, playing 'eternal tag' with her 'brothers' Pesche and Dondochakka. Not common knowledge: she was once the Third Espada, betrayed and cast out by Nnoitra, which left her regressed into a child with no memory of her rank.",
+    "description": "A tiny green-haired Hollow girl with a cracked skull mask who latches onto Ichigo with tears and enthusiasm. She has a strange healing drool and a fierce loyalty to whoever is kind to her.",
+    "speech": "As a child she lisps heavily, mangling words and calling Ichigo 'Itsygo', and cries loudly when upset. As an adult she speaks with calm, courteous warmth.",
+    "forms": [
+      {
+        "id": "child",
+        "name": "Nel Tu",
+        "tag": "Hollow child · desert wanderer",
+        "description": "She answers only to Nel, a lisping Hollow child with a cracked ram skull on her head, and has no memory of being anything else.",
+        "when": {}
+      },
+      {
+        "id": "adult",
+        "tag": "Gamuza · former 3rd Espada",
+        "description": "Restored to her adult body, a tall graceful warrior with a ram-horned mask, polite and resolute. She fights to protect Ichigo with the power of a former Espada.",
+        "portrait": "nelliel-adult",
+        "when": {
+          "reveal": "adult"
+        },
+        "name": "Nelliel Tu Odelschwanck"
+      }
+    ]
+  },
+  {
+    "key": "stark",
+    "name": "Coyote Starrk",
+    "aliases": [
+      "Coyote Starrk",
+      "Starrk",
+      "Stark",
+      "the Primera Espada"
+    ],
+    "group": "Espada",
+    "glyph": "CS",
+    "color": "#8C8F99",
+    "tag": "Los Lobos · 1st Espada",
+    "threshold": "Fight him honestly and then offer him a real connection instead of a battle to the death.",
+    "thresholdNote": "Lazy, sleepy and seemingly disinterested, he values companionship above power because his strength once killed everyone near him. He will not forgive harm to Lilynette.",
+    "entryKeywords": [
+      "Coyote Starrk",
+      "Starrk",
+      "Stark",
+      "Primera Espada"
+    ],
+    "availability": "Present in Las Noches during las-noches as Aizen's strongest Espada, and fights at Fake Karakura during fake-karakura. Not common knowledge: he and his companion Lilynette were one Hollow split in two to escape loneliness.",
+    "description": "A tired-looking arrancar with shaggy hair and a goatee, usually napping while a loud little girl named Lilynette kicks him awake. He is the First Espada and seems to have no appetite for war.",
+    "speech": "Speaks slowly with sleepy melancholy, sighing and yawning through confrontations. He's polite, even apologetic, and turns cold only when pushed.",
+    "forms": [
+      {
+        "id": "resurreccion",
+        "tag": "Los Lobos released · 1st Espada",
+        "description": "Merging with Lilynette, he becomes a gunslinger in a fur-trimmed coat wielding twin pistols that fire endless ceros. Spirit wolves made from his own soul hunt alongside him.",
+        "portrait": "stark-resurreccion",
+        "when": {
+          "front": "fake-karakura"
+        }
+      }
+    ]
+  },
+  {
+    "key": "harribel",
+    "name": "Tier Harribel",
+    "aliases": [
+      "Tier Harribel",
+      "Harribel",
+      "Halibel",
+      "the Tercera Espada"
+    ],
+    "group": "Espada",
+    "glyph": "TR",
+    "color": "#E0B64A",
+    "tag": "Tiburón · 3rd Espada",
+    "threshold": "Show her you fight to protect others, not for dominance, and do it without sacrificing anyone.",
+    "thresholdNote": "She is silent and composed, but she values loyalty and sees sacrifice as a burden, not a virtue. She cannot forgive those who betray the ones who follow them.",
+    "entryKeywords": [
+      "Tier Harribel",
+      "Harribel",
+      "Halibel",
+      "Tercera Espada"
+    ],
+    "availability": "Seen in Las Noches during las-noches and fights at Fake Karakura during fake-karakura with her three Fracción. Not common knowledge: she joined Aizen because she believed he would protect her followers, which he may not.",
+    "description": "A tall, dark-skinned arrancar with blonde hair and a high collar hiding the lower half of her face. She commands three quarrelsome Fracción and rarely speaks.",
+    "speech": "Measured, clipped and serious, she speaks only when needed. Her lines carry quiet judgment of others and a rare, severe loyalty.",
+    "forms": [
+      {
+        "id": "resurreccion",
+        "tag": "Tiburón released · 3rd Espada",
+        "description": "Released, she sheds her collar and wields a shark-like blade, controlling water with brutal efficiency. She is armored and deadly in combat.",
+        "portrait": "harribel-resurreccion",
+        "when": {
+          "front": "fake-karakura"
+        }
+      }
+    ]
+  },
+  {
+    "key": "nnoitra",
+    "name": "Nnoitra Gilga",
+    "aliases": [
+      "Nnoitra Gilga",
+      "Nnoitra",
+      "Nnoitra Jiruga",
+      "the Quinto Espada"
+    ],
+    "group": "Espada",
+    "glyph": "NG",
+    "color": "#4A3F6B",
+    "tag": "Santa Teresa · 5th Espada",
+    "threshold": "Beat him cleanly in a real fight while refusing his contempt, until he has no excuse left.",
+    "thresholdNote": "He is sadistic and sneering, valuing only brute strength and dying in battle. He will not forgive a woman standing above him or pity from a foe.",
+    "entryKeywords": [
+      "Nnoitra Gilga",
+      "Nnoitra",
+      "Nnoitra Jiruga",
+      "Quinto Espada"
+    ],
+    "availability": "Met in Las Noches during las-noches, where he hunts intruders with his giant crescent weapon. Not common knowledge: he orchestrated Nelliel's fall from Espada rank and her expulsion from Las Noches.",
+    "description": "A towering, lanky arrancar with an eyepatch and a huge double-crescent blade on a chain. He laughs cruelly and seeks the strongest foes to prove he is the strongest.",
+    "speech": "Crude, mocking and high-pitched, he taunts constantly and calls his opponents by insulting names. His laughter is ugly and he boasts about being the strongest Espada."
+  },
+  {
+    "key": "ginjo",
+    "name": "Kūgo Ginjō",
+    "aliases": [
+      "Kūgo Ginjō",
+      "Kugo Ginjo",
+      "Ginjō",
+      "Ginjo"
+    ],
+    "group": "Xcution",
+    "glyph": "KG",
+    "color": "#5A6B7A",
+    "tag": "Cross of Scaffold · Xcution leader",
+    "threshold": "Treat him as a brother-in-arms and trust him with your fears about losing your powers.",
+    "thresholdNote": "He seems a relaxed, generous mentor who understands being different, and he values loyalty and choosing your own path. He will never forgive being used by Soul Society.",
+    "entryKeywords": [
+      "Kūgo Ginjō",
+      "Kugo Ginjo",
+      "Ginjō",
+      "Ginjo"
+    ],
+    "availability": "First met after aizen-defeat during the Lost Agent arc as leader of Xcution, the Fullbringer group offering to restore Ichigo's lost powers. Not common knowledge: he was the first Substitute Shinigami and later betrays Ichigo to steal his power, harboring deep resentment toward Soul Society.",
+    "description": "A tall man with a scar on his chest and a relaxed smile who seems to have all the answers for people with strange powers. He offers help and brotherhood to anyone who feels abandoned.",
+    "speech": "Speaks warmly and casually, drawing people in with easy confidence and generosity. His voice turns sharp when discussing betrayal or pride.",
+    "forms": [
+      {
+        "id": "betrayer",
+        "tag": "Cross of Scaffold · the first Substitute",
+        "description": "Revealed as the first Substitute Shinigami who betrays Ichigo to steal his power, now openly hostile and powerful. He wields a shikai-like Fullbring and shows no remorse.",
+        "portrait": "ginjo-betrayer",
+        "when": {
+          "front": "xcution-betrayal"
+        }
+      }
+    ]
+  },
+  {
+    "key": "tsukishima",
+    "name": "Shūkurō Tsukishima",
+    "aliases": [
+      "Shūkurō Tsukishima",
+      "Shukuro Tsukishima",
+      "Tsukishima"
+    ],
+    "group": "Xcution",
+    "glyph": "ST",
+    "color": "#6A4C9C",
+    "tag": "Book of the End · Fullbringer",
+    "threshold": "Resist his rewritten memories and continue to see him for what he really is.",
+    "thresholdNote": "He is soft-spoken, polite and cultured, but he enjoys cruelly manipulating and warping others. He won't forgive anyone who threatens Ginjō or disrupts his plans.",
+    "entryKeywords": [
+      "Shūkurō Tsukishima",
+      "Shukuro Tsukishima",
+      "Tsukishima"
+    ],
+    "availability": "First met after aizen-defeat during the Lost Agent arc as a mysterious Fullbringer who attacks Ichigo's friends. Not common knowledge: he can insert himself into anyone's past, rewriting memories to become a trusted friend, and works hand in hand with Ginjō.",
+    "description": "A thin, gentle-looking man with a bookmark-like weapon who reads constantly. He appears calm and harmless yet his presence unsettles everyone.",
+    "speech": "Soft-spoken and polite, often commenting on books or life with quiet cruelty. His words can sound charming even when threatening."
+  },
+  {
+    "key": "yhwach",
+    "name": "Yhwach",
+    "aliases": [
+      "Yhwach",
+      "His Majesty",
+      "the Father of the Quincy"
+    ],
+    "group": "Wandenreich",
+    "glyph": "YH",
+    "color": "#1C1C2E",
+    "tag": "The Almighty · Quincy emperor",
+    "threshold": "Stand firm in your own will and refuse to bow even when he shows you your fate.",
+    "thresholdNote": "He is regal, calm and certain, valuing only the Quincy vision of a world without death. He will not forgive disobedience or those who reject his destiny.",
+    "entryKeywords": [
+      "Yhwach",
+      "His Majesty"
+    ],
+    "availability": "First appears at wandenreich-declaration as the emperor of the Wandenreich, declaring war on Soul Society. Not common knowledge: he is the progenitor of all Quincy and can grant or take power through their blood, including stealing lives and abilities.",
+    "description": "A tall, bearded man in a long black coat who radiates absolute authority and calm. His presence commands the Sternritter as if they were extensions of his will.",
+    "speech": "Speaks with a deep, measured voice and grand declarations. He rarely raises his tone but every sentence feels like a pronouncement of destiny.",
+    "forms": [
+      {
+        "id": "almighty-awakened",
+        "tag": "The Almighty · awakened",
+        "description": "His eyes filled with countless pupils, he now sees and rewrites the future itself. His power over fate is terrifying and nearly absolute.",
+        "portrait": "yhwach-almighty-awakened",
+        "when": {
+          "front": "royal-realm-ascent"
+        }
+      }
+    ]
+  }
+]

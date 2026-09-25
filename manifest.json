@@ -1,0 +1,962 @@
+{
+  "schemaVersion": 1,
+  "title": "Bleach: The Living Soul — Portraits",
+  "repository": "https://github.com/JMmmmm0908/bleach-portraits",
+  "baseUrl": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/",
+  "filenameTemplate": "{key}-favor.webp",
+  "keyPattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$",
+  "imageContract": {
+    "format": "webp",
+    "recommendedWidth": 512,
+    "recommendedHeight": 640,
+    "focalPoint": [
+      0.5,
+      0.3
+    ],
+    "objectFit": "cover"
+  },
+  "portraits": [
+    {
+      "key": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "group": "Kurosaki Clinic",
+      "filename": "ichigo-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-favor.webp"
+    },
+    {
+      "key": "orihime",
+      "name": "Orihime Inoue",
+      "group": "Karakura Town",
+      "filename": "orihime-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/orihime-favor.webp"
+    },
+    {
+      "key": "uryu",
+      "name": "Uryū Ishida",
+      "group": "Karakura Town",
+      "filename": "uryu-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/uryu-favor.webp"
+    },
+    {
+      "key": "chad",
+      "name": "Yasutora Sado",
+      "group": "Karakura Town",
+      "filename": "chad-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/chad-favor.webp"
+    },
+    {
+      "key": "tatsuki",
+      "name": "Tatsuki Arisawa",
+      "group": "Karakura Town",
+      "filename": "tatsuki-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tatsuki-favor.webp"
+    },
+    {
+      "key": "keigo",
+      "name": "Keigo Asano",
+      "group": "Karakura Town",
+      "filename": "keigo-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/keigo-favor.webp"
+    },
+    {
+      "key": "mizuiro",
+      "name": "Mizuiro Kojima",
+      "group": "Karakura Town",
+      "filename": "mizuiro-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/mizuiro-favor.webp"
+    },
+    {
+      "key": "isshin",
+      "name": "Isshin Kurosaki",
+      "group": "Kurosaki Clinic",
+      "filename": "isshin-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/isshin-favor.webp"
+    },
+    {
+      "key": "karin",
+      "name": "Karin Kurosaki",
+      "group": "Kurosaki Clinic",
+      "filename": "karin-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/karin-favor.webp"
+    },
+    {
+      "key": "yuzu",
+      "name": "Yuzu Kurosaki",
+      "group": "Kurosaki Clinic",
+      "filename": "yuzu-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yuzu-favor.webp"
+    },
+    {
+      "key": "kon",
+      "name": "Kon",
+      "group": "Kurosaki Clinic",
+      "filename": "kon-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kon-favor.webp"
+    },
+    {
+      "key": "kanonji",
+      "name": "Don Kanonji",
+      "group": "Karakura Town",
+      "filename": "kanonji-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kanonji-favor.webp"
+    },
+    {
+      "key": "ryuken",
+      "name": "Ryūken Ishida",
+      "group": "Karakura Town",
+      "filename": "ryuken-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ryuken-favor.webp"
+    },
+    {
+      "key": "urahara",
+      "name": "Kisuke Urahara",
+      "group": "Urahara Shop",
+      "filename": "urahara-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/urahara-favor.webp"
+    },
+    {
+      "key": "yoruichi",
+      "name": "Yoruichi Shihōin",
+      "group": "Urahara Shop",
+      "filename": "yoruichi-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yoruichi-favor.webp"
+    },
+    {
+      "key": "tessai",
+      "name": "Tessai Tsukabishi",
+      "group": "Urahara Shop",
+      "filename": "tessai-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tessai-favor.webp"
+    },
+    {
+      "key": "jinta",
+      "name": "Jinta Hanakari",
+      "group": "Urahara Shop",
+      "filename": "jinta-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/jinta-favor.webp"
+    },
+    {
+      "key": "ururu",
+      "name": "Ururu Tsumugiya",
+      "group": "Urahara Shop",
+      "filename": "ururu-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ururu-favor.webp"
+    },
+    {
+      "key": "yamamoto",
+      "name": "Genryūsai Shigekuni Yamamoto",
+      "group": "1st Division",
+      "filename": "yamamoto-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yamamoto-favor.webp"
+    },
+    {
+      "key": "soifon",
+      "name": "Suì-Fēng",
+      "group": "2nd Division",
+      "filename": "soifon-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/soifon-favor.webp"
+    },
+    {
+      "key": "gin",
+      "name": "Gin Ichimaru",
+      "group": "3rd Division",
+      "filename": "gin-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/gin-favor.webp"
+    },
+    {
+      "key": "unohana",
+      "name": "Retsu Unohana",
+      "group": "4th Division",
+      "filename": "unohana-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/unohana-favor.webp"
+    },
+    {
+      "key": "aizen",
+      "name": "Sōsuke Aizen",
+      "group": "5th Division",
+      "filename": "aizen-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-favor.webp"
+    },
+    {
+      "key": "byakuya",
+      "name": "Byakuya Kuchiki",
+      "group": "6th Division",
+      "filename": "byakuya-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/byakuya-favor.webp"
+    },
+    {
+      "key": "komamura",
+      "name": "Sajin Komamura",
+      "group": "7th Division",
+      "filename": "komamura-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/komamura-favor.webp"
+    },
+    {
+      "key": "shunsui",
+      "name": "Shunsui Kyōraku",
+      "group": "8th Division",
+      "filename": "shunsui-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shunsui-favor.webp"
+    },
+    {
+      "key": "tosen",
+      "name": "Kaname Tōsen",
+      "group": "9th Division",
+      "filename": "tosen-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-favor.webp"
+    },
+    {
+      "key": "toshiro",
+      "name": "Tōshirō Hitsugaya",
+      "group": "10th Division",
+      "filename": "toshiro-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-favor.webp"
+    },
+    {
+      "key": "kenpachi",
+      "name": "Kenpachi Zaraki",
+      "group": "11th Division",
+      "filename": "kenpachi-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kenpachi-favor.webp"
+    },
+    {
+      "key": "mayuri",
+      "name": "Mayuri Kurotsuchi",
+      "group": "12th Division",
+      "filename": "mayuri-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/mayuri-favor.webp"
+    },
+    {
+      "key": "ukitake",
+      "name": "Jūshirō Ukitake",
+      "group": "13th Division",
+      "filename": "ukitake-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ukitake-favor.webp"
+    },
+    {
+      "key": "rukia",
+      "name": "Rukia Kuchiki",
+      "group": "13th Division",
+      "filename": "rukia-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-favor.webp"
+    },
+    {
+      "key": "renji",
+      "name": "Renji Abarai",
+      "group": "6th Division",
+      "filename": "renji-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/renji-favor.webp"
+    },
+    {
+      "key": "rangiku",
+      "name": "Rangiku Matsumoto",
+      "group": "10th Division",
+      "filename": "rangiku-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rangiku-favor.webp"
+    },
+    {
+      "key": "momo",
+      "name": "Momo Hinamori",
+      "group": "5th Division",
+      "filename": "momo-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/momo-favor.webp"
+    },
+    {
+      "key": "izuru",
+      "name": "Izuru Kira",
+      "group": "3rd Division",
+      "filename": "izuru-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/izuru-favor.webp"
+    },
+    {
+      "key": "shuhei",
+      "name": "Shūhei Hisagi",
+      "group": "9th Division",
+      "filename": "shuhei-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shuhei-favor.webp"
+    },
+    {
+      "key": "ikkaku",
+      "name": "Ikkaku Madarame",
+      "group": "11th Division",
+      "filename": "ikkaku-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ikkaku-favor.webp"
+    },
+    {
+      "key": "yumichika",
+      "name": "Yumichika Ayasegawa",
+      "group": "11th Division",
+      "filename": "yumichika-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yumichika-favor.webp"
+    },
+    {
+      "key": "yachiru",
+      "name": "Yachiru Kusajishi",
+      "group": "11th Division",
+      "filename": "yachiru-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yachiru-favor.webp"
+    },
+    {
+      "key": "nemu",
+      "name": "Nemu Kurotsuchi",
+      "group": "12th Division",
+      "filename": "nemu-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nemu-favor.webp"
+    },
+    {
+      "key": "hanataro",
+      "name": "Hanatarō Yamada",
+      "group": "4th Division",
+      "filename": "hanataro-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/hanataro-favor.webp"
+    },
+    {
+      "key": "nanao",
+      "name": "Nanao Ise",
+      "group": "8th Division",
+      "filename": "nanao-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nanao-favor.webp"
+    },
+    {
+      "key": "kukaku",
+      "name": "Kūkaku Shiba",
+      "group": "Shiba Clan",
+      "filename": "kukaku-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kukaku-favor.webp"
+    },
+    {
+      "key": "ganju",
+      "name": "Ganju Shiba",
+      "group": "Shiba Clan",
+      "filename": "ganju-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ganju-favor.webp"
+    },
+    {
+      "key": "shinji",
+      "name": "Shinji Hirako",
+      "group": "Visored",
+      "filename": "shinji-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shinji-favor.webp"
+    },
+    {
+      "key": "hiyori",
+      "name": "Hiyori Sarugaki",
+      "group": "Visored",
+      "filename": "hiyori-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/hiyori-favor.webp"
+    },
+    {
+      "key": "grimmjow",
+      "name": "Grimmjow Jaegerjaquez",
+      "group": "Espada",
+      "filename": "grimmjow-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/grimmjow-favor.webp"
+    },
+    {
+      "key": "ulquiorra",
+      "name": "Ulquiorra Cifer",
+      "group": "Espada",
+      "filename": "ulquiorra-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ulquiorra-favor.webp"
+    },
+    {
+      "key": "nelliel",
+      "name": "Nelliel Tu Odelschwanck",
+      "group": "Espada",
+      "filename": "nelliel-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-favor.webp"
+    },
+    {
+      "key": "stark",
+      "name": "Coyote Starrk",
+      "group": "Espada",
+      "filename": "stark-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/stark-favor.webp"
+    },
+    {
+      "key": "harribel",
+      "name": "Tier Harribel",
+      "group": "Espada",
+      "filename": "harribel-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/harribel-favor.webp"
+    },
+    {
+      "key": "nnoitra",
+      "name": "Nnoitra Gilga",
+      "group": "Espada",
+      "filename": "nnoitra-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nnoitra-favor.webp"
+    },
+    {
+      "key": "ginjo",
+      "name": "Kūgo Ginjō",
+      "group": "Xcution",
+      "filename": "ginjo-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ginjo-favor.webp"
+    },
+    {
+      "key": "tsukishima",
+      "name": "Shūkurō Tsukishima",
+      "group": "Xcution",
+      "filename": "tsukishima-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tsukishima-favor.webp"
+    },
+    {
+      "key": "yhwach",
+      "name": "Yhwach",
+      "group": "Wandenreich",
+      "filename": "yhwach-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yhwach-favor.webp"
+    }
+  ],
+  "forms": [
+    {
+      "key": "ichigo-shinigami",
+      "character": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "form": "shinigami",
+      "tag": "Substitute Shinigami · Hollow hunter",
+      "when": {
+        "front": "substitute-shinigami"
+      },
+      "filename": "ichigo-shinigami-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-shinigami-favor.webp"
+    },
+    {
+      "key": "ichigo-bankai",
+      "character": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "form": "bankai",
+      "tag": "Bankai Tensa Zangetsu · Ryoka invader",
+      "when": {
+        "front": "rukia-execution"
+      },
+      "filename": "ichigo-bankai-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-bankai-favor.webp"
+    },
+    {
+      "key": "ichigo-visored",
+      "character": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "form": "visored",
+      "tag": "Visored · Substitute Shinigami",
+      "when": {
+        "front": "arrancar-arrival"
+      },
+      "filename": "ichigo-visored-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-visored-favor.webp"
+    },
+    {
+      "key": "ichigo-powerless",
+      "character": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "form": "powerless",
+      "tag": "Powerless · Karakura High senior",
+      "when": {
+        "front": "aizen-defeat"
+      },
+      "filename": "ichigo-powerless-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-powerless-favor.webp"
+    },
+    {
+      "key": "ichigo-fullbring",
+      "character": "ichigo",
+      "name": "Ichigo Kurosaki",
+      "form": "fullbring",
+      "tag": "Fullbring · XCUTION recruit",
+      "when": {
+        "front": "xcution-betrayal"
+      },
+      "filename": "ichigo-fullbring-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-fullbring-favor.webp"
+    },
+    {
+      "key": "orihime-shun-shun-rikka",
+      "character": "orihime",
+      "name": "Orihime Inoue",
+      "form": "shun-shun-rikka",
+      "tag": "Shun Shun Rikka · Ryoka healer",
+      "when": {
+        "front": "ryoka-invasion"
+      },
+      "filename": "orihime-shun-shun-rikka-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/orihime-shun-shun-rikka-favor.webp"
+    },
+    {
+      "key": "uryu-quincy-letzt-stil",
+      "character": "uryu",
+      "name": "Uryū Ishida",
+      "form": "quincy-letzt-stil",
+      "tag": "Quincy: Letzt Stil · Ryoka archer",
+      "when": {
+        "front": "ryoka-invasion"
+      },
+      "filename": "uryu-quincy-letzt-stil-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/uryu-quincy-letzt-stil-favor.webp"
+    },
+    {
+      "key": "chad-brazo",
+      "character": "chad",
+      "name": "Yasutora Sado",
+      "form": "brazo",
+      "tag": "Brazo Derecha de Gigante · Ryoka brawler",
+      "when": {
+        "front": "ryoka-invasion"
+      },
+      "filename": "chad-brazo-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/chad-brazo-favor.webp"
+    },
+    {
+      "key": "isshin-former-captain",
+      "character": "isshin",
+      "name": "Isshin Kurosaki",
+      "form": "former-captain",
+      "tag": "Shinigami · Former 10th Division captain",
+      "when": {
+        "reveal": "former-captain"
+      },
+      "filename": "isshin-former-captain-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/isshin-former-captain-favor.webp"
+    },
+    {
+      "key": "karin-spiritually-aware",
+      "character": "karin",
+      "name": "Karin Kurosaki",
+      "form": "spiritually-aware",
+      "tag": "Spiritually aware · Grade-schooler",
+      "when": {
+        "front": "arrancar-arrival"
+      },
+      "filename": "karin-spiritually-aware-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/karin-spiritually-aware-favor.webp"
+    },
+    {
+      "key": "urahara-exile-revealed",
+      "character": "urahara",
+      "name": "Kisuke Urahara",
+      "form": "exile-revealed",
+      "tag": "Exile · Former 12th Division captain",
+      "when": {
+        "front": "rukia-execution"
+      },
+      "filename": "urahara-exile-revealed-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/urahara-exile-revealed-favor.webp"
+    },
+    {
+      "key": "yoruichi-human-form",
+      "character": "yoruichi",
+      "name": "Yoruichi Shihōin",
+      "form": "human-form",
+      "tag": "Flash Goddess · Former 2nd Division captain",
+      "when": {
+        "reveal": "human-form"
+      },
+      "filename": "yoruichi-human-form-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yoruichi-human-form-favor.webp"
+    },
+    {
+      "key": "tessai-former-kido-captain",
+      "character": "tessai",
+      "name": "Tessai Tsukabishi",
+      "form": "former-kido-captain",
+      "tag": "Kidō master · Former Kidō Corps captain",
+      "when": {
+        "front": "aizen-betrayal"
+      },
+      "filename": "tessai-former-kido-captain-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tessai-former-kido-captain-favor.webp"
+    },
+    {
+      "key": "gin-traitor",
+      "character": "gin",
+      "name": "Gin Ichimaru",
+      "form": "traitor",
+      "tag": "Shinsō · Defector serving Aizen",
+      "when": {
+        "front": "aizen-betrayal"
+      },
+      "filename": "gin-traitor-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/gin-traitor-favor.webp"
+    },
+    {
+      "key": "unohana-first-kenpachi",
+      "character": "unohana",
+      "name": "Retsu Unohana",
+      "form": "first-kenpachi",
+      "tag": "Minazuki · The first Kenpachi",
+      "when": {
+        "front": "first-invasion"
+      },
+      "filename": "unohana-first-kenpachi-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/unohana-first-kenpachi-favor.webp"
+    },
+    {
+      "key": "aizen-traitor",
+      "character": "aizen",
+      "name": "Sōsuke Aizen",
+      "form": "traitor",
+      "tag": "Kyōka Suigetsu · Traitor to Soul Society",
+      "when": {
+        "front": "aizen-betrayal"
+      },
+      "filename": "aizen-traitor-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-traitor-favor.webp"
+    },
+    {
+      "key": "aizen-hogyoku-fused",
+      "character": "aizen",
+      "name": "Sōsuke Aizen",
+      "form": "hogyoku-fused",
+      "tag": "Hōgyoku · Transcendent being",
+      "when": {
+        "front": "fake-karakura"
+      },
+      "filename": "aizen-hogyoku-fused-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-hogyoku-fused-favor.webp"
+    },
+    {
+      "key": "byakuya-bankai",
+      "character": "byakuya",
+      "name": "Byakuya Kuchiki",
+      "form": "bankai",
+      "tag": "Senbonzakura Kageyoshi · Bankai",
+      "when": {
+        "front": "ryoka-invasion"
+      },
+      "filename": "byakuya-bankai-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/byakuya-bankai-favor.webp"
+    },
+    {
+      "key": "komamura-unmasked",
+      "character": "komamura",
+      "name": "Sajin Komamura",
+      "form": "unmasked",
+      "tag": "Tenken · Captain of the 7th Division",
+      "when": {
+        "front": "rukia-execution"
+      },
+      "filename": "komamura-unmasked-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/komamura-unmasked-favor.webp"
+    },
+    {
+      "key": "shunsui-captain-commander",
+      "character": "shunsui",
+      "name": "Shunsui Kyōraku",
+      "form": "captain-commander",
+      "tag": "Katen Kyōkotsu · Captain-Commander of the Gotei 13",
+      "when": {
+        "front": "first-invasion"
+      },
+      "filename": "shunsui-captain-commander-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shunsui-captain-commander-favor.webp"
+    },
+    {
+      "key": "tosen-traitor",
+      "character": "tosen",
+      "name": "Kaname Tōsen",
+      "form": "traitor",
+      "tag": "Suzumushi · Defector serving Aizen",
+      "when": {
+        "front": "aizen-betrayal"
+      },
+      "filename": "tosen-traitor-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-traitor-favor.webp"
+    },
+    {
+      "key": "tosen-hollowfied",
+      "character": "tosen",
+      "name": "Kaname Tōsen",
+      "form": "hollowfied",
+      "tag": "Resurrección · Hollowfied Shinigami",
+      "when": {
+        "front": "fake-karakura"
+      },
+      "filename": "tosen-hollowfied-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-hollowfied-favor.webp"
+    },
+    {
+      "key": "toshiro-bankai",
+      "character": "toshiro",
+      "name": "Tōshirō Hitsugaya",
+      "form": "bankai",
+      "tag": "Daiguren Hyōrinmaru · Bankai",
+      "when": {
+        "front": "aizen-betrayal"
+      },
+      "filename": "toshiro-bankai-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-bankai-favor.webp"
+    },
+    {
+      "key": "toshiro-grown",
+      "character": "toshiro",
+      "name": "Tōshirō Hitsugaya",
+      "form": "grown",
+      "tag": "Daiguren Hyōrinmaru · Complete Bankai",
+      "when": {
+        "front": "second-invasion"
+      },
+      "filename": "toshiro-grown-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-grown-favor.webp"
+    },
+    {
+      "key": "kenpachi-eyepatch-off",
+      "character": "kenpachi",
+      "name": "Kenpachi Zaraki",
+      "form": "eyepatch-off",
+      "tag": "Unleashed spiritual pressure · Captain of the 11th Division",
+      "when": {
+        "front": "ryoka-invasion"
+      },
+      "filename": "kenpachi-eyepatch-off-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kenpachi-eyepatch-off-favor.webp"
+    },
+    {
+      "key": "rukia-powers-restored",
+      "character": "rukia",
+      "name": "Rukia Kuchiki",
+      "form": "powers-restored",
+      "tag": "Sode no Shirayuki · Officer of the 13th Division",
+      "when": {
+        "front": "arrancar-arrival"
+      },
+      "filename": "rukia-powers-restored-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-powers-restored-favor.webp"
+    },
+    {
+      "key": "rukia-lieutenant",
+      "character": "rukia",
+      "name": "Rukia Kuchiki",
+      "form": "lieutenant",
+      "tag": "Sode no Shirayuki · Lieutenant of the 13th Division",
+      "when": {
+        "front": "lost-agent"
+      },
+      "filename": "rukia-lieutenant-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-lieutenant-favor.webp"
+    },
+    {
+      "key": "renji-bankai",
+      "character": "renji",
+      "name": "Renji Abarai",
+      "form": "bankai",
+      "tag": "Hihiō Zabimaru · Bankai",
+      "when": {
+        "front": "rukia-execution"
+      },
+      "filename": "renji-bankai-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/renji-bankai-favor.webp"
+    },
+    {
+      "key": "nanao-lieutenant-to-commander",
+      "character": "nanao",
+      "name": "Nanao Ise",
+      "form": "lieutenant-to-commander",
+      "tag": "Kidō specialist · Lieutenant to the Captain-Commander",
+      "when": {
+        "front": "first-invasion"
+      },
+      "filename": "nanao-lieutenant-to-commander-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nanao-lieutenant-to-commander-favor.webp"
+    },
+    {
+      "key": "shinji-captain-restored",
+      "character": "shinji",
+      "name": "Shinji Hirako",
+      "form": "captain-restored",
+      "tag": "Sakanade · Fifth Division captain",
+      "when": {
+        "front": "lost-agent"
+      },
+      "filename": "shinji-captain-restored-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shinji-captain-restored-favor.webp"
+    },
+    {
+      "key": "grimmjow-resurreccion",
+      "character": "grimmjow",
+      "name": "Grimmjow Jaegerjaquez",
+      "form": "resurreccion",
+      "tag": "Pantera released · 6th Espada",
+      "when": {
+        "front": "hueco-mundo-rescue"
+      },
+      "filename": "grimmjow-resurreccion-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/grimmjow-resurreccion-favor.webp"
+    },
+    {
+      "key": "ulquiorra-segunda-etapa",
+      "character": "ulquiorra",
+      "name": "Ulquiorra Cifer",
+      "form": "segunda-etapa",
+      "tag": "Murciélago Segunda Etapa · 4th Espada",
+      "when": {
+        "front": "las-noches"
+      },
+      "filename": "ulquiorra-segunda-etapa-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ulquiorra-segunda-etapa-favor.webp"
+    },
+    {
+      "key": "nelliel-child",
+      "character": "nelliel",
+      "name": "Nelliel Tu Odelschwanck",
+      "form": "child",
+      "tag": "Hollow child · desert wanderer",
+      "when": {},
+      "filename": "nelliel-child-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-child-favor.webp"
+    },
+    {
+      "key": "nelliel-adult",
+      "character": "nelliel",
+      "name": "Nelliel Tu Odelschwanck",
+      "form": "adult",
+      "tag": "Gamuza · former 3rd Espada",
+      "when": {
+        "reveal": "adult"
+      },
+      "filename": "nelliel-adult-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-adult-favor.webp"
+    },
+    {
+      "key": "stark-resurreccion",
+      "character": "stark",
+      "name": "Coyote Starrk",
+      "form": "resurreccion",
+      "tag": "Los Lobos released · 1st Espada",
+      "when": {
+        "front": "fake-karakura"
+      },
+      "filename": "stark-resurreccion-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/stark-resurreccion-favor.webp"
+    },
+    {
+      "key": "harribel-resurreccion",
+      "character": "harribel",
+      "name": "Tier Harribel",
+      "form": "resurreccion",
+      "tag": "Tiburón released · 3rd Espada",
+      "when": {
+        "front": "fake-karakura"
+      },
+      "filename": "harribel-resurreccion-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/harribel-resurreccion-favor.webp"
+    },
+    {
+      "key": "ginjo-betrayer",
+      "character": "ginjo",
+      "name": "Kūgo Ginjō",
+      "form": "betrayer",
+      "tag": "Cross of Scaffold · the first Substitute",
+      "when": {
+        "front": "xcution-betrayal"
+      },
+      "filename": "ginjo-betrayer-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ginjo-betrayer-favor.webp"
+    },
+    {
+      "key": "yhwach-almighty-awakened",
+      "character": "yhwach",
+      "name": "Yhwach",
+      "form": "almighty-awakened",
+      "tag": "The Almighty · awakened",
+      "when": {
+        "front": "royal-realm-ascent"
+      },
+      "filename": "yhwach-almighty-awakened-favor.webp",
+      "status": "missing",
+      "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yhwach-almighty-awakened-favor.webp"
+    }
+  ]
+}
