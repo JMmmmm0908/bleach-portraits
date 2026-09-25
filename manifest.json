@@ -21,7 +21,9 @@
       "name": "Ichigo Kurosaki",
       "group": "Kurosaki Clinic",
       "filename": "ichigo-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65850,
+      "sha256": "654fe39edd86501b930007a09a2d1db91d9325de2514e8c524dcd7928c5e52bc",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-favor.webp"
     },
     {
@@ -29,7 +31,9 @@
       "name": "Orihime Inoue",
       "group": "Karakura Town",
       "filename": "orihime-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 76128,
+      "sha256": "026f969925628bed4a5eef0fc2fdd6c6cc25323da152996aa97f6899b93d473a",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/orihime-favor.webp"
     },
     {
@@ -37,7 +41,9 @@
       "name": "Uryū Ishida",
       "group": "Karakura Town",
       "filename": "uryu-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 53700,
+      "sha256": "65cf8ab5413d88423a2a75a7200aeb9aeb53c219c270bc90715ce3bd25351d36",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/uryu-favor.webp"
     },
     {
@@ -45,7 +51,9 @@
       "name": "Yasutora Sado",
       "group": "Karakura Town",
       "filename": "chad-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58366,
+      "sha256": "b04511c84e6d4692b925dc0fbf2d8afc29e25d8fdaa063a8ad2b52bf7a04f322",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/chad-favor.webp"
     },
     {
@@ -53,7 +61,9 @@
       "name": "Tatsuki Arisawa",
       "group": "Karakura Town",
       "filename": "tatsuki-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65636,
+      "sha256": "bad2f68667684d56e6bc266f555c1dbe125431ab13cb7dd5cddd737fc977acc2",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tatsuki-favor.webp"
     },
     {
@@ -61,7 +71,9 @@
       "name": "Keigo Asano",
       "group": "Karakura Town",
       "filename": "keigo-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61640,
+      "sha256": "5f3654d3935fa639604fb86cf92f72de9bd75878d8fce04e6ba186083f6a24a7",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/keigo-favor.webp"
     },
     {
@@ -69,7 +81,9 @@
       "name": "Mizuiro Kojima",
       "group": "Karakura Town",
       "filename": "mizuiro-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 63320,
+      "sha256": "d9b8030ca7a10b5d613d9b7fe67ae025142f088b572af6d41b5a2e698b644ab0",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/mizuiro-favor.webp"
     },
     {
@@ -77,7 +91,9 @@
       "name": "Isshin Kurosaki",
       "group": "Kurosaki Clinic",
       "filename": "isshin-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 55754,
+      "sha256": "60899d5b4ab52cfce5e28c328d856751bbe6536d098b53f4d70cf142f1fec6f8",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/isshin-favor.webp"
     },
     {
@@ -85,7 +101,9 @@
       "name": "Karin Kurosaki",
       "group": "Kurosaki Clinic",
       "filename": "karin-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57382,
+      "sha256": "41b9653dc2e1b1bad9ecc603362b8342d26a7f5d4d87bee08a1b1a02a21c3342",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/karin-favor.webp"
     },
     {
@@ -93,7 +111,9 @@
       "name": "Yuzu Kurosaki",
       "group": "Kurosaki Clinic",
       "filename": "yuzu-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 68514,
+      "sha256": "fac1260ccb67fd8881f0e7cbb41f3120d6d2c2b8e4c4ac15792a19db9b038ad5",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yuzu-favor.webp"
     },
     {
@@ -101,7 +121,9 @@
       "name": "Kon",
       "group": "Kurosaki Clinic",
       "filename": "kon-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 53638,
+      "sha256": "316c7c2cfd6feced46c2275ea8bd3a4ef5cdc4153704ff6a464d8262c5f7fd84",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kon-favor.webp"
     },
     {
@@ -109,7 +131,9 @@
       "name": "Don Kanonji",
       "group": "Karakura Town",
       "filename": "kanonji-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 59654,
+      "sha256": "cdfc816534af57765082a34b9c674b19c827bd85f64a92c7b823c59d8923cbfb",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kanonji-favor.webp"
     },
     {
@@ -117,7 +141,9 @@
       "name": "Ryūken Ishida",
       "group": "Karakura Town",
       "filename": "ryuken-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 64002,
+      "sha256": "6aee0e6920b88d38190e3cafc77a84ac2b13fd3ecfa12a9aa7b26599bb261e82",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ryuken-favor.webp"
     },
     {
@@ -125,7 +151,9 @@
       "name": "Kisuke Urahara",
       "group": "Urahara Shop",
       "filename": "urahara-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58736,
+      "sha256": "b435f7bc0153fef567d857894f855ea82e13c87f8da71be0a5a7786a93ba2298",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/urahara-favor.webp"
     },
     {
@@ -133,7 +161,9 @@
       "name": "Yoruichi Shihōin",
       "group": "Urahara Shop",
       "filename": "yoruichi-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 41962,
+      "sha256": "0ebd4ddc86e9fb7ccaa7ffec902c52c69a398f35af0cadabf9deb719669c9aa4",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yoruichi-favor.webp"
     },
     {
@@ -141,7 +171,9 @@
       "name": "Tessai Tsukabishi",
       "group": "Urahara Shop",
       "filename": "tessai-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58142,
+      "sha256": "5d66ea97435deb12dc6af14874d03c0a719af2e57a28c2f6d42332b382c20c30",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tessai-favor.webp"
     },
     {
@@ -149,7 +181,9 @@
       "name": "Jinta Hanakari",
       "group": "Urahara Shop",
       "filename": "jinta-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 63534,
+      "sha256": "baa53fefe899570e241854e4b9afc3d4c105911f55c2602d191be8a248447c8f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/jinta-favor.webp"
     },
     {
@@ -157,7 +191,9 @@
       "name": "Ururu Tsumugiya",
       "group": "Urahara Shop",
       "filename": "ururu-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 59768,
+      "sha256": "111243bf8387dd51dd12b9849f8af8ca28c11eb7b5c30e59491f74e0677517a3",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ururu-favor.webp"
     },
     {
@@ -165,7 +201,9 @@
       "name": "Genryūsai Shigekuni Yamamoto",
       "group": "1st Division",
       "filename": "yamamoto-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61568,
+      "sha256": "ab9efc9ddadd484c08b145bf5710e4ccf176ea9b5e14201758337c8dc4d4b1f8",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yamamoto-favor.webp"
     },
     {
@@ -173,7 +211,9 @@
       "name": "Suì-Fēng",
       "group": "2nd Division",
       "filename": "soifon-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61426,
+      "sha256": "6ae4057dc6d19a31672b77be4ad66d82ad9e4a939c4cf8d3775ad42fd95a311f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/soifon-favor.webp"
     },
     {
@@ -181,7 +221,9 @@
       "name": "Gin Ichimaru",
       "group": "3rd Division",
       "filename": "gin-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57904,
+      "sha256": "85b3adee6d95ca8edae26c4a02b8026049fe29aba1c90e86c43079ed61b68feb",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/gin-favor.webp"
     },
     {
@@ -189,7 +231,9 @@
       "name": "Retsu Unohana",
       "group": "4th Division",
       "filename": "unohana-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58588,
+      "sha256": "2ac1539f77a5896c25fb1fdd57e6d614a9408d1f74938f422a984ded4fe16fb1",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/unohana-favor.webp"
     },
     {
@@ -197,7 +241,9 @@
       "name": "Sōsuke Aizen",
       "group": "5th Division",
       "filename": "aizen-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 62252,
+      "sha256": "37a7bc0d924573a2a5688d4bba420e4e20c02625a5da721e9e1714f683f2734f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-favor.webp"
     },
     {
@@ -205,7 +251,9 @@
       "name": "Byakuya Kuchiki",
       "group": "6th Division",
       "filename": "byakuya-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58342,
+      "sha256": "3bc16cceb0cc003719e161cf79016c56197be7ce49bec50fa9c18dc98fb857f9",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/byakuya-favor.webp"
     },
     {
@@ -213,7 +261,9 @@
       "name": "Sajin Komamura",
       "group": "7th Division",
       "filename": "komamura-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 63912,
+      "sha256": "a1dc48036de570528775f0e11563023ab1db7b54c0e221e745911e5dad1b6f3c",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/komamura-favor.webp"
     },
     {
@@ -221,7 +271,9 @@
       "name": "Shunsui Kyōraku",
       "group": "8th Division",
       "filename": "shunsui-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 87662,
+      "sha256": "52eb8488ac12d210e0a9a4bc0a6248f603f9c8f946262f16e9c3bd3eceabfec6",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shunsui-favor.webp"
     },
     {
@@ -229,7 +281,9 @@
       "name": "Kaname Tōsen",
       "group": "9th Division",
       "filename": "tosen-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 67904,
+      "sha256": "c3595e880925fc3048606bde0ed8d68717320170b162787df7c3102380e53da3",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-favor.webp"
     },
     {
@@ -237,7 +291,9 @@
       "name": "Tōshirō Hitsugaya",
       "group": "10th Division",
       "filename": "toshiro-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 78908,
+      "sha256": "3f06bdc56bad4c28295ddc765c841ef295e964c62ca056c91d35886dd59dbf17",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-favor.webp"
     },
     {
@@ -245,7 +301,9 @@
       "name": "Kenpachi Zaraki",
       "group": "11th Division",
       "filename": "kenpachi-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 63870,
+      "sha256": "fdee256287a33d1e4fb7406f668eb1384853431969067006f6b03eeae9431456",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kenpachi-favor.webp"
     },
     {
@@ -253,7 +311,9 @@
       "name": "Mayuri Kurotsuchi",
       "group": "12th Division",
       "filename": "mayuri-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58546,
+      "sha256": "f99ae290cd275f90b633201986a2dc89d0a60e41f6e4cef94f0fa27e6eac918b",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/mayuri-favor.webp"
     },
     {
@@ -261,7 +321,9 @@
       "name": "Jūshirō Ukitake",
       "group": "13th Division",
       "filename": "ukitake-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 69702,
+      "sha256": "0a63f21c5ee4b126e1ec588624d2267d2ef100e87c8e237c56d72f83594d5cbe",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ukitake-favor.webp"
     },
     {
@@ -269,7 +331,9 @@
       "name": "Rukia Kuchiki",
       "group": "13th Division",
       "filename": "rukia-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 112492,
+      "sha256": "d11e264449e629c61a6db1db83899e39b37eee23a902211561a67702f040164c",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-favor.webp"
     },
     {
@@ -277,7 +341,9 @@
       "name": "Renji Abarai",
       "group": "6th Division",
       "filename": "renji-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61624,
+      "sha256": "6a975a7b39a8011d538569c5b1f3e87d6672d71da59f785db4698d1a110474dd",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/renji-favor.webp"
     },
     {
@@ -285,7 +351,9 @@
       "name": "Rangiku Matsumoto",
       "group": "10th Division",
       "filename": "rangiku-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 76952,
+      "sha256": "94e544c409c2ea0527192131a780bca3550bd524689519d9b7f9dbf51398e866",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rangiku-favor.webp"
     },
     {
@@ -293,7 +361,9 @@
       "name": "Momo Hinamori",
       "group": "5th Division",
       "filename": "momo-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 59232,
+      "sha256": "91729ddb44219c81859b6fba129d739ae003789341e6b45431ba8165fa802f5e",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/momo-favor.webp"
     },
     {
@@ -301,7 +371,9 @@
       "name": "Izuru Kira",
       "group": "3rd Division",
       "filename": "izuru-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 55310,
+      "sha256": "5eb51efcbd7968ab89c755d59c16f2b2a43a1fcc959d7d9d372b61bd4c1b14fc",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/izuru-favor.webp"
     },
     {
@@ -309,7 +381,9 @@
       "name": "Shūhei Hisagi",
       "group": "9th Division",
       "filename": "shuhei-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 56390,
+      "sha256": "3075264c44b3d989f0fdca12272088941b9d3c2b9a1d1735e79d74941ed90069",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shuhei-favor.webp"
     },
     {
@@ -317,7 +391,9 @@
       "name": "Ikkaku Madarame",
       "group": "11th Division",
       "filename": "ikkaku-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 51408,
+      "sha256": "2268773be621a09a3d3e075172437f94365191b446a014223132b12e1642a61d",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ikkaku-favor.webp"
     },
     {
@@ -325,7 +401,9 @@
       "name": "Yumichika Ayasegawa",
       "group": "11th Division",
       "filename": "yumichika-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 60206,
+      "sha256": "40da450d63b730fcfff77281a9577a52e2b5a8f2d2f702f28c1e2b4a5fdf1e09",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yumichika-favor.webp"
     },
     {
@@ -333,7 +411,9 @@
       "name": "Yachiru Kusajishi",
       "group": "11th Division",
       "filename": "yachiru-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 53380,
+      "sha256": "ec6536784e224b7b2b47c07ec0f0b632d4105e8e4792402be3336941add4d80b",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yachiru-favor.webp"
     },
     {
@@ -341,7 +421,9 @@
       "name": "Nemu Kurotsuchi",
       "group": "12th Division",
       "filename": "nemu-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 47356,
+      "sha256": "979a71bc893f6fc4ae6af92e235e2b03e35cb34a0fe4f0b16700cc9b66e4efda",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nemu-favor.webp"
     },
     {
@@ -349,7 +431,9 @@
       "name": "Hanatarō Yamada",
       "group": "4th Division",
       "filename": "hanataro-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 51564,
+      "sha256": "360b3e7b1526fbb81c33e1c739ddadb2fe05b6d955e6109a8803dd17d11d2da9",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/hanataro-favor.webp"
     },
     {
@@ -357,7 +441,9 @@
       "name": "Nanao Ise",
       "group": "8th Division",
       "filename": "nanao-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57450,
+      "sha256": "ef20aceb453ac5668740172353ccc44b49a3ff6b42f14b19a39683d6fdf7e2dd",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nanao-favor.webp"
     },
     {
@@ -365,7 +451,9 @@
       "name": "Kūkaku Shiba",
       "group": "Shiba Clan",
       "filename": "kukaku-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 67720,
+      "sha256": "2a6529185299a7c1b232973ee9b8f0e44e7e588cfe7262bb4a3c966fd7609713",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kukaku-favor.webp"
     },
     {
@@ -373,7 +461,9 @@
       "name": "Ganju Shiba",
       "group": "Shiba Clan",
       "filename": "ganju-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 60746,
+      "sha256": "bb3065ad68e5752b1d90d75b36131c7e5ab9d6e6967876829b0c129e03591627",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ganju-favor.webp"
     },
     {
@@ -381,7 +471,9 @@
       "name": "Shinji Hirako",
       "group": "Visored",
       "filename": "shinji-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65856,
+      "sha256": "ce761524ea6a4e65b22930e1006faa76d9e6a615891bf0503eb9e395de7669a7",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shinji-favor.webp"
     },
     {
@@ -389,7 +481,9 @@
       "name": "Hiyori Sarugaki",
       "group": "Visored",
       "filename": "hiyori-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 77350,
+      "sha256": "6c9c4534359eedeaa465b1b8ca0bacd0b3281620b259336a9a289813f60b6d9f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/hiyori-favor.webp"
     },
     {
@@ -397,7 +491,9 @@
       "name": "Grimmjow Jaegerjaquez",
       "group": "Espada",
       "filename": "grimmjow-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 74620,
+      "sha256": "e4189b0f7fb69f895b93b0a5c732f026401e4c6b06e3bbcb4633563363760dff",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/grimmjow-favor.webp"
     },
     {
@@ -405,7 +501,9 @@
       "name": "Ulquiorra Cifer",
       "group": "Espada",
       "filename": "ulquiorra-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 56074,
+      "sha256": "0df1d77fdc7b49565fe7cfbe6b83f25619efc0f23a6f414b68dcc610531a230e",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ulquiorra-favor.webp"
     },
     {
@@ -413,7 +511,9 @@
       "name": "Nelliel Tu Odelschwanck",
       "group": "Espada",
       "filename": "nelliel-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 77042,
+      "sha256": "ee93ee5c1ae8676e61b140de78dd4511926c9011fb0e06ee531db35a5818e9ce",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-favor.webp"
     },
     {
@@ -421,7 +521,9 @@
       "name": "Coyote Starrk",
       "group": "Espada",
       "filename": "stark-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 56278,
+      "sha256": "59751cf1dac74f4444ac788ffb16a47f7fa72a893c2c65a6ee46cc5cc2e89ee4",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/stark-favor.webp"
     },
     {
@@ -429,7 +531,9 @@
       "name": "Tier Harribel",
       "group": "Espada",
       "filename": "harribel-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 76136,
+      "sha256": "bd2a97bf67de2277e45134292a38ff44c77a4cb4a89c4e9fba3d70c13a221b05",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/harribel-favor.webp"
     },
     {
@@ -437,7 +541,9 @@
       "name": "Nnoitra Gilga",
       "group": "Espada",
       "filename": "nnoitra-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 62188,
+      "sha256": "5b79c521ab06cc6d2858737c25208ac921521055046c88557a74406843c73da5",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nnoitra-favor.webp"
     },
     {
@@ -445,7 +551,9 @@
       "name": "Kūgo Ginjō",
       "group": "Xcution",
       "filename": "ginjo-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58182,
+      "sha256": "78bd08c1741fa7f2c2a0f0640cbe5c2e516e5cc22c8340d9eeeaad1870114486",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ginjo-favor.webp"
     },
     {
@@ -453,7 +561,9 @@
       "name": "Shūkurō Tsukishima",
       "group": "Xcution",
       "filename": "tsukishima-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57562,
+      "sha256": "37e2243c863571006af576f1deb6140493582e0f15103fb031a3e6bfa3846af1",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tsukishima-favor.webp"
     },
     {
@@ -461,7 +571,9 @@
       "name": "Yhwach",
       "group": "Wandenreich",
       "filename": "yhwach-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 51598,
+      "sha256": "e9f7692ccd332001877d99c8c36c988db6985d195d572c75329dd11caf971bb5",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yhwach-favor.webp"
     }
   ],
@@ -476,7 +588,9 @@
         "front": "substitute-shinigami"
       },
       "filename": "ichigo-shinigami-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61114,
+      "sha256": "c716c18b1b2afc295d16cb02eecdbcefc2563a986d5a4e18db5fde8cd7228e92",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-shinigami-favor.webp"
     },
     {
@@ -489,7 +603,9 @@
         "front": "rukia-execution"
       },
       "filename": "ichigo-bankai-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 78984,
+      "sha256": "f9893e8cb1fd685ffca13c1bd0c791ec99a1d902f6259f256ecd48e8e76e2874",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-bankai-favor.webp"
     },
     {
@@ -502,7 +618,9 @@
         "front": "arrancar-arrival"
       },
       "filename": "ichigo-visored-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65138,
+      "sha256": "9e5189196cfec910720e1d8e52a18063c6ab52318c2985c921a2a0e19759f3ca",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-visored-favor.webp"
     },
     {
@@ -515,7 +633,9 @@
         "front": "aizen-defeat"
       },
       "filename": "ichigo-powerless-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 62636,
+      "sha256": "8f7be526b23813bc5896a9caf77978e4cf9c375965d224f9834f377e03c348b8",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-powerless-favor.webp"
     },
     {
@@ -528,7 +648,9 @@
         "front": "xcution-betrayal"
       },
       "filename": "ichigo-fullbring-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 68768,
+      "sha256": "98fd47f5b0c8b8221bf6d074589bdda2444c806942a17688f8add79c46b4c88f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ichigo-fullbring-favor.webp"
     },
     {
@@ -541,7 +663,9 @@
         "front": "ryoka-invasion"
       },
       "filename": "orihime-shun-shun-rikka-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 85864,
+      "sha256": "1861b50ec7b5b9d7ac620d61943cfefe47662830a1f742a3651c273196459c57",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/orihime-shun-shun-rikka-favor.webp"
     },
     {
@@ -554,7 +678,9 @@
         "front": "ryoka-invasion"
       },
       "filename": "uryu-quincy-letzt-stil-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 72186,
+      "sha256": "a158f06b0eb631195d9aec6e1fb8b42ac4c94d7eadb3df93ead3d31d71a0157e",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/uryu-quincy-letzt-stil-favor.webp"
     },
     {
@@ -567,7 +693,9 @@
         "front": "ryoka-invasion"
       },
       "filename": "chad-brazo-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57702,
+      "sha256": "ebfed4586118d765ed0c770e5a7806a053d439dc39adab2227f2bfe178349d80",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/chad-brazo-favor.webp"
     },
     {
@@ -580,7 +708,9 @@
         "reveal": "former-captain"
       },
       "filename": "isshin-former-captain-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 56826,
+      "sha256": "9fa31fb25cff3a0beb9ee4a67ca760bab8951740ba0825adea1a9c51e9708de5",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/isshin-former-captain-favor.webp"
     },
     {
@@ -593,7 +723,9 @@
         "front": "arrancar-arrival"
       },
       "filename": "karin-spiritually-aware-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 61842,
+      "sha256": "dfc4c9e7b1258a4d77233e2a2a41747c59416c8905e4498edc01d0a1b2243e3f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/karin-spiritually-aware-favor.webp"
     },
     {
@@ -606,7 +738,9 @@
         "front": "rukia-execution"
       },
       "filename": "urahara-exile-revealed-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 63078,
+      "sha256": "e173791c30f4efd7e37c06fc1d42c75e80bba973f2044be2409b10635cadae4c",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/urahara-exile-revealed-favor.webp"
     },
     {
@@ -619,7 +753,9 @@
         "reveal": "human-form"
       },
       "filename": "yoruichi-human-form-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 56456,
+      "sha256": "a878e2d190292fbb86be32eddd44f17017e796e687857f089d8fd94ffe663ef4",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yoruichi-human-form-favor.webp"
     },
     {
@@ -632,7 +768,9 @@
         "front": "aizen-betrayal"
       },
       "filename": "tessai-former-kido-captain-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 55074,
+      "sha256": "5a0225936927ca62640142fa46aa84ffa99de19a48fa9ddf86a168738bbdc7e7",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tessai-former-kido-captain-favor.webp"
     },
     {
@@ -645,7 +783,9 @@
         "front": "aizen-betrayal"
       },
       "filename": "gin-traitor-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58074,
+      "sha256": "2b5268d0f902f50afe7fdf8c31863b3627da1d5de30c571cf32a3dd328075f8e",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/gin-traitor-favor.webp"
     },
     {
@@ -658,7 +798,9 @@
         "front": "first-invasion"
       },
       "filename": "unohana-first-kenpachi-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58822,
+      "sha256": "75c4f3e17db90265128d7090f6153ec4ca259210d8886f277f17d6ec3c20ce57",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/unohana-first-kenpachi-favor.webp"
     },
     {
@@ -671,7 +813,9 @@
         "front": "aizen-betrayal"
       },
       "filename": "aizen-traitor-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 62364,
+      "sha256": "cd880003b993d29e9bcee6a9b01df98e21d53784d16f2e013858eff33d891719",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-traitor-favor.webp"
     },
     {
@@ -684,7 +828,9 @@
         "front": "fake-karakura"
       },
       "filename": "aizen-hogyoku-fused-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 67648,
+      "sha256": "dd489c67818e7439a7e801b92996eef0ac8b1572394007d48433b763eff9b4e5",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/aizen-hogyoku-fused-favor.webp"
     },
     {
@@ -697,7 +843,9 @@
         "front": "ryoka-invasion"
       },
       "filename": "byakuya-bankai-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65278,
+      "sha256": "acec187ecbe819b1c7cb6af3f3dbd857c569424fe44ce208203da90e861068de",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/byakuya-bankai-favor.webp"
     },
     {
@@ -710,7 +858,9 @@
         "front": "rukia-execution"
       },
       "filename": "komamura-unmasked-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 62750,
+      "sha256": "79d0c78f09440a02925bc90d6e383791a6869e883580fb3bf433014d78336d15",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/komamura-unmasked-favor.webp"
     },
     {
@@ -723,7 +873,9 @@
         "front": "first-invasion"
       },
       "filename": "shunsui-captain-commander-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 85478,
+      "sha256": "cad22276bba519caa91d510ceaef6d134c1b949b329641d02b0386d6a742c560",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shunsui-captain-commander-favor.webp"
     },
     {
@@ -736,7 +888,9 @@
         "front": "aizen-betrayal"
       },
       "filename": "tosen-traitor-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 66166,
+      "sha256": "ac6bf2ec26999418e4449d5ea332fa39fe2abeab0a533c378da72cd9bcf89aba",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-traitor-favor.webp"
     },
     {
@@ -749,7 +903,9 @@
         "front": "fake-karakura"
       },
       "filename": "tosen-hollowfied-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 67140,
+      "sha256": "36c473d9641c816ce5e5431661ad6c62590e2ced96fa92649a15770b5743a42f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/tosen-hollowfied-favor.webp"
     },
     {
@@ -762,7 +918,9 @@
         "front": "aizen-betrayal"
       },
       "filename": "toshiro-bankai-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 108252,
+      "sha256": "ea087bd6e2e7841e5401d3a62cb5a183fce77ae45b332d7567daaed849fa2d07",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-bankai-favor.webp"
     },
     {
@@ -775,7 +933,9 @@
         "front": "second-invasion"
       },
       "filename": "toshiro-grown-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 104090,
+      "sha256": "e8b9f915f899e5d319fc9058cb22c99d50bef5dcb5143991f800be69a1ba6b1c",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/toshiro-grown-favor.webp"
     },
     {
@@ -788,7 +948,9 @@
         "front": "ryoka-invasion"
       },
       "filename": "kenpachi-eyepatch-off-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 67004,
+      "sha256": "c1fed421a5aff4832e0d2f4fc737ebc325354fbf99b5268b233a066898cc63a7",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/kenpachi-eyepatch-off-favor.webp"
     },
     {
@@ -801,7 +963,9 @@
         "front": "arrancar-arrival"
       },
       "filename": "rukia-powers-restored-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 50834,
+      "sha256": "92bd0f30b537d0406e9c5346c13242bf41fa6b3dc0d80003f854e45611b04f6c",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-powers-restored-favor.webp"
     },
     {
@@ -814,7 +978,9 @@
         "front": "lost-agent"
       },
       "filename": "rukia-lieutenant-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 58406,
+      "sha256": "7bc27b3c49e88a77b7a6556467fca1ef7ce1845635f83dfcb8ba404f5ce963ed",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/rukia-lieutenant-favor.webp"
     },
     {
@@ -827,7 +993,9 @@
         "front": "rukia-execution"
       },
       "filename": "renji-bankai-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 92420,
+      "sha256": "01453424719a431a16eb2b92cdc4002650a2410a94d89970498e71a9abd4a59d",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/renji-bankai-favor.webp"
     },
     {
@@ -840,7 +1008,9 @@
         "front": "first-invasion"
       },
       "filename": "nanao-lieutenant-to-commander-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57148,
+      "sha256": "885377d0aeb78ab02c460bf08eb9fd727a619c3b1d4d2d1c83959f4d33cadd85",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nanao-lieutenant-to-commander-favor.webp"
     },
     {
@@ -853,7 +1023,9 @@
         "front": "lost-agent"
       },
       "filename": "shinji-captain-restored-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 65674,
+      "sha256": "d90dd52f9fdd6ee17948ec9b94da367d47798fc150462336ec465b3eaed8dc1f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/shinji-captain-restored-favor.webp"
     },
     {
@@ -866,7 +1038,9 @@
         "front": "hueco-mundo-rescue"
       },
       "filename": "grimmjow-resurreccion-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 89366,
+      "sha256": "827f3d6190e214c7f04f10c551853e17d698766e5017d7beb041412d353e7502",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/grimmjow-resurreccion-favor.webp"
     },
     {
@@ -879,7 +1053,9 @@
         "front": "las-noches"
       },
       "filename": "ulquiorra-segunda-etapa-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 57854,
+      "sha256": "6b510fee3a4fa0470d2be7a9f783e478e592914a874fbad88a4160d72334132f",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ulquiorra-segunda-etapa-favor.webp"
     },
     {
@@ -890,7 +1066,9 @@
       "tag": "Hollow child · desert wanderer",
       "when": {},
       "filename": "nelliel-child-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 79014,
+      "sha256": "2297acda035af076b9077910667e75aa9fb8ed7fd812022e48b4f906f3f1f620",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-child-favor.webp"
     },
     {
@@ -903,7 +1081,9 @@
         "reveal": "adult"
       },
       "filename": "nelliel-adult-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 88478,
+      "sha256": "35d4438a028becce7467a77f0afe00c506f92975b9fa927fed2374fc2fdeea56",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/nelliel-adult-favor.webp"
     },
     {
@@ -916,7 +1096,9 @@
         "front": "fake-karakura"
       },
       "filename": "stark-resurreccion-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 64758,
+      "sha256": "d7c42393957af1165f348c83b7d4b982d58a9aecd9495fb519eccd612dee2db6",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/stark-resurreccion-favor.webp"
     },
     {
@@ -929,7 +1111,9 @@
         "front": "fake-karakura"
       },
       "filename": "harribel-resurreccion-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 79584,
+      "sha256": "537f07f3f3eff159c4ad3dbc952d6ec6fb0b7626b4a6cb29a43387afdfd48b20",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/harribel-resurreccion-favor.webp"
     },
     {
@@ -942,7 +1126,9 @@
         "front": "xcution-betrayal"
       },
       "filename": "ginjo-betrayer-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 70098,
+      "sha256": "d678f6391d750fb2587cde0c70b9d8f6325bdec3b7dea9245b58ce8c83fd0c71",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/ginjo-betrayer-favor.webp"
     },
     {
@@ -955,7 +1141,9 @@
         "front": "royal-realm-ascent"
       },
       "filename": "yhwach-almighty-awakened-favor.webp",
-      "status": "missing",
+      "status": "available",
+      "bytes": 54040,
+      "sha256": "c184c42e910871b3b329cb9e655f74d6a76970b2df4bead9c28a805b9d46fea7",
       "url": "https://raw.githubusercontent.com/JMmmmm0908/bleach-portraits/main/yhwach-almighty-awakened-favor.webp"
     }
   ]
